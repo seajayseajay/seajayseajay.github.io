@@ -3,6 +3,17 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+My name is Chun-Jan Young (楊淳然), but I go by CJ in most situations. I am a PhD candidate in the Department of Linguistics at the University of California, Santa Barbara. My dissertation project is a comprehensive study of stress and prosodic prominence in *o ciriciring no tao do pongso* (also known as Yami or Tao), a Batanic (Austronesian) language spoken by the indigenous Tao people (達悟族) of Orchid Island (蘭嶼), Taiwan. I am a documentary linguist by training, and I am interested in typologically-informed description and analysis across all levels of linguistic structure from articulatory phonetics to clausal syntax, and I have worked on topics such as case marking, information structure, discourse markers, and acoustic correlates of word stress. I received my MA in Linguistics in 2019 from National Taiwan University.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Prior to entering linguistics and academia, I was a flutist and pursued classical music professionally. I hold a Bachelor of Music and an Artist Diploma from the University of Miami Frost School of Music, and a Master of Music from the Peabody Conservatory of the Johns Hopkins University. As such, I am also interested in the intersection of language and music.
+
+I was born in Taipei, Taiwan, and grew up in Hong Kong, Tokyo, and Shanghai before attending university in the USA. I have a twin brother who is currently Lecturer in Physical Geography at the University of St. Andrews in Scotland. Outside of academia, I am a massive coffee geek and a lover of cats, metro systems, and noodles.
+
+This summer, I'll be attending and giving presentations at the following conferences:
+- SEALS 33 (Southeast Asian Linguistics Society)
+- 16 ICAL (International Conference on Austronesian Linguistics)
+- LabPhon 19 (Laboratory Phonology)
+- Speech Prosody 2024
+- SWL IX (Syntax of the World's Languages)
+
+This will eventually be [a link to my CV](Test1.md) this doesn't work anymore i'm just keeping it so i remember the code
