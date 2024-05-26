@@ -18,3 +18,6 @@ author_profile: true
 ### Currently drinking:
 - [Dune Coffee Roasters](https://www.dunecoffee.com/) (Santa Barbara, CA): Colombia El Carmen Anaerobic Washed Caturra
 - [Dune Coffee Roasters](https://www.dunecoffee.com/) (Santa Barbara, CA): Presidio Decaf
+
+### Contact me at:
+- <chun-jan@ucsb.edu> or <young.chunjan@gmail.com>
