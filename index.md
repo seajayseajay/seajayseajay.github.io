@@ -6,4 +6,4 @@ layout: single
 author_profile: true
 ---
 
-# Welcome to CJ's personal academic website!
+Welcome to CJ's personal academic website!
