@@ -8,8 +8,8 @@ title: "Teaching"
 | ---- | ------ | -------------- |
 | LING 20  | Language & Linguistics | Winter 2024 |
 | LING 505 | Teaching in Linguistics | Spring 2023 |
-| LING 106 | Introduction to Phonetics | Fall 2022
-| LING 115 | Introduction to Historical Comparative Linguistics | Spring 2022
+| LING 106 | Introduction to Phonetics | Fall 2022 |
+| LING 115 | Introduction to Historical Comparative Linguistics | Spring 2022 |
 
 ## As Teaching Assistant (UCSB)
 | Code | Course | Term (Quarter) | Instructor |
