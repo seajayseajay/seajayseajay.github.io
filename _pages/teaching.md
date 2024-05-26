@@ -3,6 +3,8 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
+I have taught extensively and regularly throughout my graduate studies at UCSB and NTU for a wide range of courses in structural linguistics.
+
 ## As Instructor of Record (UCSB)
 
 | Code | Course | Term (Quarter) |
