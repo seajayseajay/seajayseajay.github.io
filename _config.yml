@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "CJ Young"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hello! I am a PhD candidate in Linguistics at the University of California, Santa Barbara."
+  bio    : "PhD Candidate in Linguistics, University of California, Santa Barbara"
   location : "Santa Barbara, CA, USA"
   links:
     - label: "Website"
@@ -90,6 +90,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-square-facebook"
       url: "https://facebook.com/young.chunjan"
+
+atom_feed:
+  hide: true
 
 defaults:
   # _posts
