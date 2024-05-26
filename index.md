@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-## Welcome to CJ's personal academic website!
+Welcome to CJ's personal academic website!
 
 ### Find me at:
 - SEALS 33 (Taipei, Taiwan - 06/24)
