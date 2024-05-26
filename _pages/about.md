@@ -17,8 +17,8 @@ I was born in Taipei, Taiwan, and grew up in Hong Kong, Tokyo, and Shanghai befo
 I have a [twin brother](https://www.st-andrews.ac.uk/geography-sustainable-development/people/tjy1/) who is currently Lecturer in Physical Geography at the University of St. Andrews in Scotland. Outside of academia, I am a massive coffee geek and a lover of cats, metro systems, and noodles.
 
 This summer, I'll be attending and giving presentations at the following conferences:
-- SEALS 33 (Southeast Asian Linguistics Society)
-- 16 ICAL (International Conference on Austronesian Linguistics)
-- LabPhon 19 (Laboratory Phonology)
-- Speech Prosody 2024
-- SWL IX (Syntax of the World's Languages)
+- SEALS 33 (Southeast Asian Linguistics Society) in Taipei, Taiwan
+- 16 ICAL (International Conference on Austronesian Linguistics) in Manila, Philippines
+- LabPhon 19 (Laboratory Phonology) in Seoul, South Korea
+- Speech Prosody 2024 in Leiden, Netherlands
+- SWL IX (Syntax of the World's Languages) in Lima, Peru
