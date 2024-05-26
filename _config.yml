@@ -61,6 +61,7 @@ author:
   name   : "CJ Young"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Hello! I am a PhD candidate in Linguistics at the University of California, Santa Barbara."
+  location : "Santa Barbara, CA, USA"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
