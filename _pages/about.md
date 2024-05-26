@@ -15,10 +15,3 @@ Prior to entering linguistics and academia, I was a flutist and pursued classica
 I was born in Taipei, Taiwan, and grew up in Hong Kong, Tokyo, and Shanghai before attending university in the USA. Due to the unique circumstances of my upbringing, I speak English as my default language and Mandarin Chinese at a high (though not entirely native) level. I also speak Japanese, Spanish, German, and Dutch to constantly shifting degrees of intermediate proficiency, and have life goals to become proficient in Cantonese, Taiwanese Hokkien, Korean, and Tagalog.
 
 I have a [twin brother](https://www.st-andrews.ac.uk/geography-sustainable-development/people/tjy1/) who is currently Lecturer in Physical Geography at the University of St. Andrews in Scotland. Outside of academia, I am a massive coffee geek and a lover of cats, metro systems, and noodles.
-
-This summer, I'll be attending and giving presentations at the following conferences:
-- SEALS 33 (Southeast Asian Linguistics Society) in Taipei, Taiwan
-- 16 ICAL (International Conference on Austronesian Linguistics) in Manila, Philippines
-- LabPhon 19 (Laboratory Phonology) in Seoul, South Korea
-- Speech Prosody 2024 in Leiden, Netherlands
-- SWL IX (Syntax of the World's Languages) in Lima, Peru
