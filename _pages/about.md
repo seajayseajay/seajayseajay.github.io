@@ -15,5 +15,3 @@ This summer, I'll be attending and giving presentations at the following confere
 - LabPhon 19 (Laboratory Phonology)
 - Speech Prosody 2024
 - SWL IX (Syntax of the World's Languages)
-
-This will eventually be [a link to my CV](Test1.md) this doesn't work anymore i'm just keeping it so i remember the code
