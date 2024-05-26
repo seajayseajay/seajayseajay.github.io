@@ -9,4 +9,5 @@ author_profile: true
 Welcome to CJ's personal academic website!
 
 ### Currently drinking:
-- Dune Coffee Roasters' Colombia El Carmen Anaerobic Washed Caturra
+- Dune Coffee Roasters (Santa Barbara, CA): Colombia El Carmen Anaerobic Washed Caturra
+- Dune Coffee Roasters (Santa Barbara, CA): Presidio Decaf
