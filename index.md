@@ -7,3 +7,6 @@ author_profile: true
 ---
 
 Welcome to CJ's personal academic website!
+
+### Currently drinking:
+= Dune Coffee Roasters' Colombia El Carmen Anaerobic Washed Caturra
