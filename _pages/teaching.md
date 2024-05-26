@@ -4,6 +4,7 @@ title: "Teaching"
 ---
 
 ## As Instructor of Record (UCSB)
+
 | Code | Course | Term (Quarter) |
 | ---- | ------ | -------------- |
 | LING 20  | Language & Linguistics | Winter 2024 |
@@ -12,6 +13,7 @@ title: "Teaching"
 | LING 115 | Introduction to Historical Comparative Linguistics | Spring 2022 |
 
 ## As Teaching Assistant (UCSB)
+
 | Code | Course | Term (Quarter) | Instructor |
 | ---- | ------ | -------------- | ---------- |
 | LING 80 | Endangered Languages | Spring 2024 | Dr. Jaime Pérez González |
@@ -27,6 +29,7 @@ title: "Teaching"
 | LING 106 | Introduction to Phonetics | Fall 2019 | Phillip Rogers |
 
 ## As Teaching Assistant (NTU)
+
 | Code | Course | Term (Semester) | Instructor |
 | ---- | ------ | --------------- | ---------- |
-| FL 1010 | Freshman English | Spring 2019 | Dr. Zhao-Ming Gao|
+| FL 1010 | Freshman English | Spring 2019 | Dr. Zhao-Ming Gao |
