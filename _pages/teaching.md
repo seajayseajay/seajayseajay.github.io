@@ -19,6 +19,8 @@ I have taught extensively and regularly throughout my graduate studies at UCSB a
 | Fall 2022 | LING 106 | Introduction to Phonetics |
 | Spring 2022 | LING 115 | Introduction to Historical Comparative Linguistics |
 
+
+
 # Teaching Assistant
 
 ## UCSB
@@ -42,6 +44,8 @@ I have taught extensively and regularly throughout my graduate studies at UCSB a
 | Term (Semester) | Code | Course | Instructor |
 | --------------- | ---- | ------ | ---------- |
 | Spring 2019 | FL 1010 | Freshman English | Zhao-Ming Gao |
+
+
 
 # Guest Lectures
 
