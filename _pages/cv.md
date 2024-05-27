@@ -56,26 +56,23 @@ I'll put the file here.
 | May 28, 2020 | Oblique marking of definite arguments: an analysis of Yami *so* in discourse | New Approaches to Indigenous Languages (NAIL), UCSB Department of Linguistics |
 | July 17, 2019 | Language, culture, and cognition (co-presented with Thomas Van Hoey) | 17th International Linguistics Olympiad Training Camp for Taiwan & Hong Kong high school representatives |
 
-## Grants and Fellowships/Scholarships
+## Grants
 
-| Year | Award | Awarding Organization |
-| ---- | ----- | --------------------- |
+| Year | Grant | Organization |
+| ---- | ----- | ------------ |
 | 2024 | Humanities & Social Sciences Research Grant | UCSB Graduate Division |
 | 2024 | Fieldwork Grant | Wallace Chafe & Marianne Mithun Fund for Research on Understudied Languages |
 | 2023 | Short-Term Research Grant | UCSB Center for Taiwan Studies |
-| 2020-2022 | Study Abroad Scholarship | ROC (Taiwan) Ministry of Education |
-| 2021 | Winter Fellowship | UCSB Department of Linguistics |
-| 2019-2024 | Teaching Fellowship | UCSB Department of Linguistics |
 
 ## Research Assistantships
 
-| Year | Supervisor | Project |
-| ---- | ---------- | ------- |
-| 2024 | Argyro Katsika & Matthew Gordon (UCSB) | Analysis of Electromagnetic Articulography (EMA) data of vowel quantity in spoken Estonian |
-| 2023 | Jorge Emilio Rosés Labrada (UAlberta) | Musical transcription of Sapé songs |
-| 2021 | Per Langgård (Oqaasileriffik/Language Secretariat of Greenland) | *kal2eng*: Machine translation of Kalaallisut (West Greenlandic) to English |
-| 2018-2019 | Li-May Sung (NTU) | Transcription of field data for the NTU Corpus of Formosan Languages; digitization and morphological analysis of original Yami/Tao manuscripts |
-| 2018-2019 | Zhao-Ming Gao (NTU) | *The Construction of Native Taiwanese Language Corpora* (Grant from ROC Ministry of Education); *Investigating the Mechanisms of National Language Surveys* (Grant from ROC Ministry of Culture) |
+| Year | Project | Supervisor |
+| ---- | ------- | ---------- |
+| 2024 | Analysis of Electromagnetic Articulography (EMA) data of vowel quantity in spoken Estonian | Argyro Katsika & Matthew Gordon (UCSB) |
+| 2023 | Musical transcription of Sapé songs | Jorge Emilio Rosés Labrada (UAlberta) |
+| 2021 | *kal2eng*: Machine translation of Kalaallisut (West Greenlandic) to English | Per Langgård (Oqaasileriffik/Language Secretariat of Greenland) |
+| 2018-2019 | Transcription of field data for the NTU Corpus of Formosan Languages; digitization and morphological analysis of original Yami/Tao manuscripts | Li-May Sung (NTU) |
+| 2018-2019 | *The Construction of Native Taiwanese Language Corpora* (Grant from ROC Ministry of Education); *Investigating the Mechanisms of National Language Surveys* (Grant from ROC Ministry of Culture) | Zhao-Ming Gao (NTU) |
 
 ## Professional Memberships
 
@@ -103,11 +100,14 @@ I'll put the file here.
 | 2021-2022 | Abstract reviewer | 24th Workshop on American Indigenous Languages (WAIL), UCSB |
 | 2020-2021 | Abstract reviewer | 23rd Workshop on American Indigenous Languages (WAIL), UCSB |
 
-## Awards
+## Fellowships, Scholarships, and Awards
 
 | Year | Award | Organization |
 | ---- | ----- | ------------ |
 | 2024 | (Nominated) Excellence in Teaching Award | UCSB Graduate Student Association |
+| 2020-2022 | Study Abroad Scholarship | ROC (Taiwan) Ministry of Education |
+| 2021 | Winter Fellowship | UCSB Department of Linguistics |
+| 2019-2024 | Teaching Fellowship | UCSB Department of Linguistics |
 
 ## Languages
 
