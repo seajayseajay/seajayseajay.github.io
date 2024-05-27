@@ -74,5 +74,51 @@ I'll put the file here.
 | 2024 | Dr. Argyro Katsika & Dr. Matthew Gordon (UCSB) | Analysis of Electromagnetic Articulography (EMA) data of vowel quantity in spoken Estonian |
 | 2023 | Dr. Jorge Emilio Rosés Labrada (UAlberta) | Musical transcription of Sapé songs |
 | 2021 | Per Langgård (Oqaasileriffik/Language Secretariat of Greenland) | *kal2eng*: Machine translation of Kalaallisut (West Greenlandic) to English |
-| 2018-2019 | Dr. Li-May Sung (NTU) | Transcription of spoken field data for the NTU Corpus of Formosan Languages; digitization and morphological analysis of original Yami/Tao manuscripts |
+| 2018-2019 | Dr. Li-May Sung (NTU) | Transcription of field data for the NTU Corpus of Formosan Languages; digitization and morphological analysis of original Yami/Tao manuscripts |
 | 2018-2019 | Dr. Zhao-Ming Gao (NTU) | *The Construction of Native Taiwanese Language Corpora* (Grant from ROC Ministry of Education); *Investigating the Mechanisms of National Language Surveys* (Grant from ROC Ministry of Culture) |
+
+## Professional Memberships
+
+| Year | Organization |
+| ---- | ------------ |
+| 2024-present | Association for Laboratory Phonology |
+| 2024-present | Acoustical Society of America |
+| 2024-present | International Phonetic Association |
+| 2024-present | Societas Linguistica Europaea |
+| 2019-present | Linguistic Society of America |
+
+## Service
+
+| Year | Position/Role | Organization |
+| ---- | ------------- | ------------ |
+| 2023-2024 | Organizing committee | 26th Workshop on American Indigenous Languages (WAIL), UCSB |
+| 2023-2024 | Graduate student peer mentor | UCSB Department of Linguistics |
+| 2022-2023 | Abstract reviewer | 25th Workshop on American Indigenous Languages (WAIL), UCSB |
+| 2022-2023 | Tenure-track faculty search committee | UCSB Department of Linguistics |
+| 2021-2022 | Graduate student peer mentor | UCSB Department of Linguistics |
+| 2021-2022 | Graduate student representative | UCSB Department of Linguistics |
+| 2021-2022 | Graduate student peer mentor | UCSB Department of Linguistics |
+| 2021-2022 | Undergraduate Studies Council | UCSB Department of Linguistics |
+| 2021-2022 | Undergraduate Liaison | UCSB Department of Linguistics |
+| 2021-2022 | Abstract reviewer | 24th Workshop on American Indigenous Languages (WAIL), UCSB |
+| 2020-2021 | Abstract reviewer | 23rd Workshop on American Indigenous Languages (WAIL), UCSB |
+
+## Awards
+
+| Year | Award | Organization |
+| ---- | ----- | ------------ |
+| 2024 | (Nominated) Excellence in Teaching Award | UCSB Graduate Student Association |
+
+## Languages
+
+| Level | Languages |
+| ----- | --------- |
+| Native or fluent | English, Mandarin Chinese |
+| Intermediate | Dutch, German, Japanese, Spanish |
+| Research | Tao/Yami, Northern Paiwan, P'urhépecha |
+
+### Examinations and Certifications
+| Year | Language | Level | Examination/certification |
+| ---- | -------- | ----- | ------------------------- |
+| 2019 | Japanese | N3 | Japanese Language Proficiency Test (JLPT) |
+| 2018 | Tao/Yami | Intermediate | Taiwan Indigenous Language Proficiency Test |
