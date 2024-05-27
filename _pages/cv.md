@@ -22,9 +22,9 @@ I'll put the file here.
 
 | Year | Author | Publication |
 | ---- | ------ | ----------- |
-| 2024 (forthcoming) | Young, Chun-Jan | Acoustic correlates of penultimate and final stress in Yami. *Proceedings of Speech Prosody 2024*.|
-| 2024 (in prep.) | Young, Chun-Jan | Non-core case marking in Batanic languages. |
-| 2024 (in prep.) | Young, Chun-Jan | K-pop, bottoms, and muscles: Discourses and ideologies of masculinity in an online community of gay Asian men. (Chapter in progress for the edited volume *Digital Masculinities*) |
+| 2024 | Young, Chun-Jan | Acoustic correlates of penultimate and final stress in Yami. *Proceedings of Speech Prosody 2024* (forthcoming).|
+| 2024 | Young, Chun-Jan | Non-core case marking in Batanic languages. (Submission in progress to *Language Typology and Universals* (*STUF*)) |
+| 2024 | Young, Chun-Jan | K-pop, bottoms, and muscles: Discourses and ideologies of masculinity in an online community of gay Asian men. (Chapter in progress for the edited volume *Digital Masculinities*) |
 
 ## Dissertations & Theses
 
