@@ -75,6 +75,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-square-facebook"
       url: "https://facebook.com/young.chunjan"
+    - label: "ORCID ID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-2528-0577"
 
 footer:
   links:
@@ -90,6 +93,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-square-facebook"
       url: "https://facebook.com/young.chunjan"
+    - label: "ORCID ID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-2528-0577"
 
 atom_feed:
   hide: true
