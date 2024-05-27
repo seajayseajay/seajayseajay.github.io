@@ -3,7 +3,7 @@ permalink: /cv/
 title: "CV"
 toc: true
 toc_label: "CV"
-toc_sticky: false
+toc_sticky: true
 ---
 
 I'll put the file here.
