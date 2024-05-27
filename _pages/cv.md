@@ -1,6 +1,7 @@
 ---
 permalink: /cv/
 title: "CV"
+toc: true
 ---
 
 I'll put the file here.
