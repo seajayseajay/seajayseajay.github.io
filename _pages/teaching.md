@@ -8,9 +8,9 @@ toc_sticky: true
 
 I have taught extensively and regularly throughout my graduate studies at UCSB and NTU for a wide range of courses in structural linguistics.
 
-# Instructor of Record
+## Instructor of Record
 
-## UCSB
+### UCSB
 
 | Term (Quarter) | Code | Course |
 | -------------- | ---- | ------ |
@@ -19,11 +19,9 @@ I have taught extensively and regularly throughout my graduate studies at UCSB a
 | Fall 2022 | LING 106 | Introduction to Phonetics |
 | Spring 2022 | LING 115 | Introduction to Historical Comparative Linguistics |
 
+## Teaching Assistant
 
-
-# Teaching Assistant
-
-## UCSB
+### UCSB
 
 | Term (Quarter) | Code | Course | Instructor |
 |  -------------- |---- | ------ | ---------- |
@@ -39,15 +37,13 @@ I have taught extensively and regularly throughout my graduate studies at UCSB a
 | Winter 2020 | LING 20 | Language & Linguistics | Adrienne Tsikewa |
 | Fall 2019 | LING 106 | Introduction to Phonetics | Phillip Rogers |
 
-## NTU
+### NTU
 
 | Term (Semester) | Code | Course | Instructor |
 | --------------- | ---- | ------ | ---------- |
 | Spring 2019 | FL 1010 | Freshman English | Zhao-Ming Gao |
 
-
-
-# Guest Lectures
+## Guest Lectures
 
 | Date | Title | Course |
 | ---- | ----- | ------ |
