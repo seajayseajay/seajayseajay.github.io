@@ -4,7 +4,7 @@ title: "Teaching"
 toc: true
 toc_label: "Teaching"
 toc_sticky: true
-toc_icon: "person_chalkboard"
+toc_icon: "person-chalkboard"
 ---
 
 I have taught extensively and regularly throughout my graduate studies at UCSB and NTU for a wide range of courses in structural linguistics.
