@@ -15,10 +15,6 @@ I'll put the file here.
 | 2012-2014 | Peabody Institute of the Johns Hopkins University | MM in Flute Performance |
 | 2008-2012 | University of Miami | BM in Flute Performance & Minor in German, *summa cum laude* |
 
-## Research Interests
-
-Language documentation; linguistic typology; prosody; word stress and prominence; articulatory phonetics and phonology; information structure; intonational phonology; case marking; (in)definiteness; clause combining; usage-based and functional approaches; cognitive semantics; historical linguistics; sociocultural linguistics; community-based and community-informed language work; language revitalization; language & music; Austronesian languages of Taiwan and the Philippines; Inuit languages; P’urhépecha
-
 ## Publications
 
 | Year | Author | Publication |
