@@ -69,4 +69,10 @@ I'll put the file here.
 
 ## Research Assistantships
 
-continue this later
+| Year | Supervisor | Project |
+| ---- | ---------- | ------- |
+| 2024 | Dr. Argyro Katsika & Dr. Matthew Gordon (UCSB) | Analysis of Electromagnetic Articulography (EMA) data of vowel quantity in spoken Estonian |
+| 2023 | Dr. Jorge Emilio Rosés Labrada (UAlberta) | Musical transcription of Sapé songs |
+| 2021 | Per Langgård (Oqaasileriffik/Language Secretariat of Greenland) | *kal2eng*: Machine translation of Kalaallisut (West Greenlandic) to English |
+| 2018-2019 | Dr. Li-May Sung (NTU) | Transcription of spoken field data for the NTU Corpus of Formosan Languages; digitization and morphological analysis of original Yami/Tao manuscripts |
+| 2018-2019 | Dr. Zhao-Ming Gao (NTU) | *The Construction of Native Taiwanese Language Corpora* (Grant from ROC Ministry of Education); *Investigating the Mechanisms of National Language Surveys* (Grant from ROC Ministry of Culture) |
