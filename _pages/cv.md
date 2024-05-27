@@ -71,7 +71,7 @@ I'll put the file here.
 
 | Year | Supervisor | Project |
 | ---- | ---------- | ------- |
-| 2024 | Argyro Katsika & Dr. Matthew Gordon (UCSB) | Analysis of Electromagnetic Articulography (EMA) data of vowel quantity in spoken Estonian |
+| 2024 | Argyro Katsika & Matthew Gordon (UCSB) | Analysis of Electromagnetic Articulography (EMA) data of vowel quantity in spoken Estonian |
 | 2023 | Jorge Emilio Rosés Labrada (UAlberta) | Musical transcription of Sapé songs |
 | 2021 | Per Langgård (Oqaasileriffik/Language Secretariat of Greenland) | *kal2eng*: Machine translation of Kalaallisut (West Greenlandic) to English |
 | 2018-2019 | Li-May Sung (NTU) | Transcription of field data for the NTU Corpus of Formosan Languages; digitization and morphological analysis of original Yami/Tao manuscripts |
