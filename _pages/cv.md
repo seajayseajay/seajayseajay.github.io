@@ -2,6 +2,8 @@
 permalink: /cv/
 title: "CV"
 toc: true
+toc_label: "CV"
+toc_sticky: false
 ---
 
 I'll put the file here.
