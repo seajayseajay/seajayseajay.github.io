@@ -10,7 +10,7 @@ Download my full CV in PDF here (will upload soon).
 
 The research & teaching sections of my CV are listed on their respective pages on this website and are therefore omitted below.
 
-# Education
+## Education
 
 | Years | Institution | Degree |
 | ---- | ------ | -------------- |
@@ -20,7 +20,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 | 2012-2014 | Peabody Institute of the Johns Hopkins University | MM in Flute Performance |
 | 2008-2012 | University of Miami | BM in Flute Performance & Minor in German, *summa cum laude* |
 
-# Publications
+## Publications
 
 | Year | Author | Publication |
 | ---- | ------ | ----------- |
@@ -28,14 +28,14 @@ The research & teaching sections of my CV are listed on their respective pages o
 | 2024 | Young, Chun-Jan | Non-core case marking in Batanic languages. (Submission in progress to *Language Typology and Universals* (*STUF*)) |
 | 2024 | Young, Chun-Jan | K-pop, bottoms, and muscles: Discourses and ideologies of masculinity in an online community of gay Asian men. (Chapter in progress for the edited volume *Digital Masculinities*) |
 
-## Dissertations & Theses
+### Dissertations & Theses
 
 | Year | Institution | Degree | Title | Advisor |
 | ---- | ----------- | ------ | ----- | ------- |
 | In progress | University of California, Santa Barbara | PhD | Stress and prominence in *o ciriciring no tao do pongso* (Yami/Tao), an Austronesian language of Orchid Island, Taiwan | Marianne Mithun |
 | 2019 | National Taiwan University | MA | The *am*-construction in Yami | Li-May Sung |
 
-# Conference Presentations
+## Conference Presentations
 
 | Year | Author | Title | Conference & Location |
 | ---- | ------ | ----- | --------------------- |
@@ -52,7 +52,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 | 2019 | Young, Chun-Jan | The topic construction in Yami | 29th Meeting of the Southeast Asian Linguistics Society (SEALS 29); Tokyo, Japan |
 | 2018 | Young, Chun-Jan | Completely relevant: an examination of completive aspect marker *anga* in Paiwan (poster) | 17th International Conference on the Processing of East Asian Languages & 9th Conference on Language, Discourse, and Cognition (ICPEAL 17 - CLDC 9); Taipei, Taiwan |
 
-# Invited Talks
+## Invited Talks
 
 | Date | Title | Venue |
 | ---- | ----- | ----- |
@@ -61,7 +61,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 | May 28, 2020 | Oblique marking of definite arguments: an analysis of Yami *so* in discourse | New Approaches to Indigenous Languages (NAIL), UCSB Department of Linguistics |
 | July 17, 2019 | Language, culture, and cognition (co-presented with Thomas Van Hoey) | 17th International Linguistics Olympiad Training Camp for Taiwan & Hong Kong high school representatives |
 
-# Grants
+## Grants
 
 | Year | Grant | Organization |
 | ---- | ----- | ------------ |
@@ -69,7 +69,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 | 2024 | Fieldwork Grant | Wallace Chafe & Marianne Mithun Fund for Research on Understudied Languages |
 | 2023 | Short-Term Research Grant | UCSB Center for Taiwan Studies |
 
-# Research Assistantships
+## Research Assistantships
 
 | Year | Project | Supervisor |
 | ---- | ------- | ---------- |
@@ -79,7 +79,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 | 2018-2019 | Transcription of field data for the NTU Corpus of Formosan Languages; digitization and morphological analysis of original Yami/Tao manuscripts | Li-May Sung (NTU) |
 | 2018-2019 | *The Construction of Native Taiwanese Language Corpora* (Grant from ROC Ministry of Education); *Investigating the Mechanisms of National Language Surveys* (Grant from ROC Ministry of Culture) | Zhao-Ming Gao (NTU) |
 
-# Professional Memberships
+## Professional Memberships
 
 | Year | Organization |
 | ---- | ------------ |
@@ -89,7 +89,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 | 2024-present | Societas Linguistica Europaea |
 | 2019-present | Linguistic Society of America |
 
-# Service
+## Service
 
 | Year | Position/Role | Organization |
 | ---- | ------------- | ------------ |
@@ -105,7 +105,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 | 2021-2022 | Abstract reviewer | 24th Workshop on American Indigenous Languages (WAIL), UCSB |
 | 2020-2021 | Abstract reviewer | 23rd Workshop on American Indigenous Languages (WAIL), UCSB |
 
-# Fellowships, Scholarships, and Awards
+## Fellowships, Scholarships, and Awards
 
 | Year | Award | Organization |
 | ---- | ----- | ------------ |
@@ -114,7 +114,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 | 2021 | Winter Fellowship | UCSB Department of Linguistics |
 | 2019-2024 | Teaching Fellowship | UCSB Department of Linguistics |
 
-# Languages
+## Languages
 
 | Level | Languages |
 | ----- | --------- |
@@ -122,7 +122,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 | Intermediate | Dutch, German, Japanese, Spanish |
 | Research | Tao/Yami, Northern Paiwan, P'urhépecha |
 
-## Examinations and Certifications
+### Examinations and Certifications
 
 | Year | Language | Level | Examination/certification |
 | ---- | -------- | ----- | ------------------------- |
