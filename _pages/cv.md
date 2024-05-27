@@ -7,6 +7,7 @@ toc_sticky: true
 ---
 
 Download my full CV in PDF here (will upload soon).
+
 The research & teaching sections of my CV are listed on their respective pages on this website, and will not be repeated below.
 
 # Education
