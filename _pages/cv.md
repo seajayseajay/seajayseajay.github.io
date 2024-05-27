@@ -23,12 +23,12 @@ I'll put the file here.
 | 2024 (in prep.) | Young, Chun-Jan | Non-core case marking in Batanic languages. |
 | 2024 (in prep.) | Young, Chun-Jan | K-pop, bottoms, and muscles: Discourses and ideologies of masculinity in an online community of gay Asian men. (Chapter in progress for the edited volume *Digital Masculinities*) |
 
-## Theses
+## Dissertations & Theses
 
 | Year | Institution | Degree | Title | Advisor |
 | ---- | ----------- | ------ | ----- | ------- |
-| In progress | University of California, Santa Barbara | PhD Dissertation | Stress and prominence in *o ciriciring no tao do pongso* (Yami/Tao), an Austronesian language of Orchid Island, Taiwan | Marianne Mithun |
-| 2019 | National Taiwan University | MA Thesis | The *am*-construction in Yami | Li-May Sung |
+| In progress | University of California, Santa Barbara | PhD | Stress and prominence in *o ciriciring no tao do pongso* (Yami/Tao), an Austronesian language of Orchid Island, Taiwan | Marianne Mithun |
+| 2019 | National Taiwan University | MA | The *am*-construction in Yami | Li-May Sung |
 
 ## Conference Presentations
 
