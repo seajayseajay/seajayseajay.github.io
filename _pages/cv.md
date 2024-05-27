@@ -118,6 +118,7 @@ I'll put the file here.
 | Research | Tao/Yami, Northern Paiwan, P'urhépecha |
 
 ### Examinations and Certifications
+
 | Year | Language | Level | Examination/certification |
 | ---- | -------- | ----- | ------------------------- |
 | 2019 | Japanese | N3 | Japanese Language Proficiency Test (JLPT) |
