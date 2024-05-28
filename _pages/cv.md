@@ -39,7 +39,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 | Year | Author | Title | Conference & Location |
 | ---- | ------ | ----- | --------------------- |
-| 2024 | Young, Chun-Jan | Iconicity as grammar: the iterative aspect in Yami | 9th Syntax of the World's Languages (SWL IX); Lima, Peru |
+| 2024 | Young, Chun-Jan | Iconicity as grammar: the iterative aspect in Yami | 9th Syntax of the World's Languages (SWL IX)<br>Lima, Peru |
 | 2024 | Young, Chun-Jan | Acoustic correlates of penultimate and final stress in Yami (poster) | Speech Prosody 2024; Leiden, Netherlands |
 | 2024 | Young, Chun-Jan | Lexical stress in Yami: investigating penultimate and final prominence (poster) | 19th Conference on Laboratory Phonology (LabPhon 19); Seoul, South Korea |
 | 2024 | Young, Chun-Jan | Intertwining iconicity: prosodic augmentation and reduplication in Yami | 16th International Conference on Austronesian Linguistics (16-ICAL); Manila, Philippines |
