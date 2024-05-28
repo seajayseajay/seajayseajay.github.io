@@ -43,7 +43,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 | 2024 | Young, Chun-Jan | Acoustic correlates of penultimate and final stress in Yami (poster) | Speech Prosody 2024<br>Leiden, Netherlands |
 | 2024 | Young, Chun-Jan | Lexical stress in Yami: investigating penultimate and final prominence (poster) | 19th Conference on Laboratory Phonology (LabPhon 19)<br>Seoul, South Korea |
 | 2024 | Young, Chun-Jan | Intertwining iconicity: prosodic augmentation and reduplication in Yami | 16th International Conference on Austronesian Linguistics (16-ICAL)<br>Manila, Philippines |
-| 2024 | Young, Chun-Jan | Word stress in Yami | 33rd Meeting of the Southeast Asian Linguistics Society (SEALS 33); Taipei, Taiwan |
+| 2024 | Young, Chun-Jan | Word stress in Yami | 33rd Meeting of the Southeast Asian Linguistics Society (SEALS 33)<br>Taipei, Taiwan |
 | 2022 | Cheng, Yi-Yang, and Chun-Jan Young | Zero vs. pronoun coding of high-accessibility referents in (some) Western Austronesian Languages | Seminario: Interaction of Formal Means and Functional Categories in the Coding of Reference<br>Hermosillo, Mexico |
 | 2021 | Young, Chun-Jan and Li-May Sung | [On the usage of *am* as a discourse connective in Yami](https://youtu.be/Y6o6cCW5lNI) | 5th Usage-Based Linguistics Conference (UBL5)<br>Online (hosted by Tel Aviv University) |
 | 2021 | Young, Chun-Jan | Syntactic and informational hierarchy in Yami clause linkage (poster) | 13th International Austronesian and Papuan Languages and Linguistics Conference (APLL13)<br>Online (hosted by the University of Edinburgh) |
