@@ -32,7 +32,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 | Year | Institution | Degree | Title |
 | ---- | ----------- | ------ | ----- |
-| In progress | University of California, Santa Barbara | PhD | Stress and prominence in *o ciriciring no tao do pongso* (Yami/Tao), an Austronesian language of Orchid Island, Taiwan |
+| In progress | University of California, Santa Barbara | PhD | Stress and prosodic prominence in *o ciriciring no tao do pongso* (Yami/Tao), an Austronesian language of Orchid Island, Taiwan |
 | 2019 | National Taiwan University | MA | The *am*-construction in Yami |
 
 ## Conference Presentations
