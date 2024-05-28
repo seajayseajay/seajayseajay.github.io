@@ -22,11 +22,11 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 ## Publications
 
-| Year | Author | Publication |
+| Year | Author(s) & Title | Publication |
 | ---- | ------ | ----------- |
-| 2024 | Young, Chun-Jan | Acoustic correlates of penultimate and final stress in Yami. *Proceedings of Speech Prosody 2024* (forthcoming).|
-| 2024 | Young, Chun-Jan | Non-core case marking in Batanic languages. (Submission in progress to *Language Typology and Universals* (*STUF*)) |
-| 2024 | Young, Chun-Jan | K-pop, bottoms, and muscles: Discourses and ideologies of masculinity in an online community of gay Asian men. (Chapter in progress for the edited volume *Digital Masculinities*) |
+| 2024 | Young, Chun-Jan<br>Acoustic correlates of penultimate and final stress in Yami | *Proceedings of Speech Prosody 2024* (forthcoming).|
+| 2024 | Young, Chun-Jan<br>Non-core case marking in Batanic languages | (Submission in progress to *Language Typology and Universals* (*STUF*)) |
+| 2024 | Young, Chun-Jan<br>K-pop, bottoms, and muscles: Discourses and ideologies of masculinity in an online community of gay Asian men | Chapter in progress for the edited volume *Digital Masculinities* |
 
 ### Dissertations & Theses
 
@@ -45,7 +45,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 | 2024 | Young, Chun-Jan<br>Intertwining iconicity: prosodic augmentation and reduplication in Yami | 16th International Conference on Austronesian Linguistics (16-ICAL)<br>Manila, Philippines |
 | 2024 | Young, Chun-Jan<br>Word stress in Yami | 33rd Meeting of the Southeast Asian Linguistics Society (SEALS 33)<br>Taipei, Taiwan |
 | 2022 | Cheng, Yi-Yang, and Chun-Jan Young<br>Zero vs. pronoun coding of high-accessibility referents in (some) Western Austronesian Languages | Seminario: Interaction of Formal Means and Functional Categories in the Coding of Reference<br>Hermosillo, Mexico |
-| 2021 | Young, Chun-Jan and Li-May Sung<br>[On the usage of *am* as a discourse connective in Yami](https://youtu.be/Y6o6cCW5lNI) | 5th Usage-Based Linguistics Conference (UBL5)<br>Online (hosted by Tel Aviv University) |
+| 2021 | Young, Chun-Jan, and Li-May Sung<br>[On the usage of *am* as a discourse connective in Yami](https://youtu.be/Y6o6cCW5lNI) | 5th Usage-Based Linguistics Conference (UBL5)<br>Online (hosted by Tel Aviv University) |
 | 2021 | Young, Chun-Jan<br>Syntactic and informational hierarchy in Yami clause linkage (poster) | 13th International Austronesian and Papuan Languages and Linguistics Conference (APLL13)<br>Online (hosted by the University of Edinburgh) |
 | 2021 | Young, Chun-Jan<br>Constructing a gay Asian male identity in an online discussion board (Panel on *Discourse, Diaspora, and Difference in Asian America*) | 95th Annual Meeting of the Linguistic Society of America<br>Online |
 | 2020 | Young, Chun-Jan<br>Definite obliques in Yami | 12th International Austronesian and Papuan Languages and Linguistics Conference (APLL12)<br>Online (hosted by the University of Oslo) |
