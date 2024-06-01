@@ -25,7 +25,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 | Year | Author(s) & Title | Publication |
 | ---- | ------ | ----------- |
 | 2024 | Young, Chun-Jan<br>Acoustic correlates of penultimate and final stress in Yami | *Proceedings of Speech Prosody 2024* (forthcoming).|
-| 2024 | Young, Chun-Jan<br>Non-core case marking in Batanic languages | Submitted to *Language Typology and Universals* (*STUF*) |
+| 2024 | Young, Chun-Jan<br>Non-core case marking in Batanic languages | Submitted to *STUF - Language Typology and Universals* |
 | 2024 | Young, Chun-Jan<br>K-pop, bottoms, and muscles: Discourses and ideologies of masculinity in an online community of gay Asian men | Chapter in progress for the edited volume *Digital Masculinities* |
 
 ### Dissertations & Theses
