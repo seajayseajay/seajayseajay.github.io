@@ -111,7 +111,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 | ---- | ----- | ------------ |
 | 2024 | (Nominated) Excellence in Teaching Award | UCSB Graduate Student Association |
 | 2020-2022 | Study Abroad Scholarship | ROC (Taiwan) Ministry of Education |
-| 2021 | Winter Fellowship | UCSB Department of Linguistics |
+| 2021 | Department of Linguistics Fellowship (Winter Quarter) | UCSB Department of Linguistics |
 | 2019-2024 | Teaching Fellowship | UCSB Department of Linguistics |
 
 ## Languages
