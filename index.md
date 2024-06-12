@@ -19,6 +19,8 @@ Welcome to CJ's personal academic website!
 ### Currently brewing:
 - [Dune Coffee Roasters](https://www.dunecoffee.com/) (Santa Barbara, CA): Colombia El Carmen Anaerobic Washed Caturra
 - [Dune Coffee Roasters](https://www.dunecoffee.com/) (Santa Barbara, CA): Presidio Decaf
+- [Handlebar Coffee Roasters](https://handlebarcoffee.com/) (Santa Barbara, CA): El Salvador Finca El Gobiado
+- [Handlebar Coffee Roasters](https://handlebarcoffee.com/) (Santa Barbara, CA): Nicaragua Decaf
 
 ### Contact me at:
 - <chun-jan@ucsb.edu> or <young.chunjan@gmail.com>
