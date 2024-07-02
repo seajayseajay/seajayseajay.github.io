@@ -10,9 +10,9 @@ author_profile: true
 Welcome to CJ's personal academic website!
 
 ### Find me at:
-- SEALS 33 (Taipei, Taiwan - 06/24)
-- ICAL 16 (Manila, Philippines - 06/24)
-- LabPhon 19 (Seoul, South Korea - 06/24)
+- ~~SEALS 33 (Taipei, Taiwan - 06/24)~~
+- ~~ICAL 16 (Manila, Philippines - 06/24)~~
+- ~~LabPhon 19 (Seoul, South Korea - 06/24)~~
 - Speech Prosody (Leiden, Netherlands - 07/24)
 - Syntax of the World's Languages IX (Lima, Peru - 07/24)
 
