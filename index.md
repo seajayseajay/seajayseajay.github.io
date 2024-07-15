@@ -18,8 +18,8 @@ Welcome to CJ's personal academic website!
 
 ### Currently brewing:
 - [Handlebar Coffee Roasters](https://handlebarcoffee.com/) (Santa Barbara, CA): El Salvador Finca El Gobiado
-- [MOK Coffee](https://mokcoffee.be/) (Brussels/Leuven, Belgium): Peru Yanamote Honey
-- [MOK Coffee](https://mokcoffee.be/) (Brussels/Leuven, Belgium): Kenya Docha AB
+- [MOK Coffee](https://mokcoffee.be/) (Brussels, Belgium): Peru Yanamote Honey
+- [MOK Coffee](https://mokcoffee.be/) (Brussels, Belgium): Kenya Docha AB
 
 ### Contact me at:
 - <chun-jan@ucsb.edu> or <young.chunjan@gmail.com>
