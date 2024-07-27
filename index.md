@@ -14,10 +14,9 @@ Welcome to CJ's personal academic website!
 - ~~ICAL 16 (Manila, Philippines - 06/24)~~
 - ~~LabPhon 19 (Seoul, South Korea - 06/24)~~
 - ~~Speech Prosody (Leiden, Netherlands - 07/24)~~
-- Syntax of the World's Languages IX (Lima, Peru - 07/24)
+- ~~Syntax of the World's Languages IX (Lima, Peru - 07/24)~~
 
 ### Currently brewing:
-- [Handlebar Coffee Roasters](https://handlebarcoffee.com/) (Santa Barbara, CA): El Salvador Finca El Gobiado
 - [MOK Coffee](https://mokcoffee.be/) (Brussels, Belgium): Peru Yanamote Honey
 - [MOK Coffee](https://mokcoffee.be/) (Brussels, Belgium): Kenya Docha AB
 
