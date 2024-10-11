@@ -18,8 +18,9 @@ My 2024 conference season is at an end! Glad to have met so many great people th
 - ~~Syntax of the World's Languages IX (Lima, Peru - 07/24)~~
 
 ### Currently brewing:
-- [Wenshan Coffee Roasting 聞山咖啡](https://www.wenshanroasting.com/) (Taipei, Taiwan): Ethiopia Gedeo Yirgacheffe Idido Amarech Ararso Anaerobic Natural G1 艾芙莎
-- [Wenshan Coffee Roasting 聞山咖啡](https://www.wenshanroasting.com/) (Taipei, Taiwan): Costa Rica Passion Honey 百香蜜
+- [Dune Coffee Roasters](https://www.dunecoffee.com/) (Santa Barbara, CA): Indonesia Bener Meriah Anaerobic Natural
+- [Enroute Coffee 引路咖啡](https://www.enroutecoffee.tw/) (Taipei, Taiwan): Tanzania Tembo Tembo AA Washed
+- [Enroute Coffee 引路咖啡](https://www.enroutecoffee.tw/) (Taipei, Taiwan): Costa Rica Mirazu Caturra Barrel Modulation Raisin Honey Process
 
 ### Contact me at:
 - <chun-jan@ucsb.edu> or <young.chunjan@gmail.com>
