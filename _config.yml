@@ -84,6 +84,9 @@ author:
 
 footer:
   links:
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/seajayseajay.bsky.social"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/seajayseajay"
