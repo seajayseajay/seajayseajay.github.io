@@ -23,6 +23,7 @@ twitter_username: seajayseajay
 github_username: seajayseajay
 minimal_mistakes_skin: "mint" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
+logo: /assets/images/favicon/android-chrome-512x512.png
 
 # Build settings
 markdown: kramdown
