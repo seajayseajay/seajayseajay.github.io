@@ -7,6 +7,8 @@ layout: single
 author_profile: true
 ---
 
+# Hello!
+
 Welcome to CJ's personal academic website!
 
 ### Find me at:
