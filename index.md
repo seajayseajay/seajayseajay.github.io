@@ -9,15 +9,14 @@ author_profile: true
 
 # Hello!
 
-Welcome to CJ's personal academic website!
+Welcome to my website! I am a linguist, and my research has largely centered around the language spoken by the Indigenous Tao/Yami islanders of Orchid Island, southeastern Taiwan. I am a PhD Candidate at the University of California, Santa Barbara, where I am a member of the [SPArK Phonetics Lab](https://www.ucsb-spark.com/) led by Dr. Argyro Katsika and the Language Documentation Lab led by Dr. Marianne Mithun, and I am an assistant director of the OLA (Ortografías en Lenguas Aborígenes) Lab led by Dr. Eric W. Campbell. I also regularly teach linguistics courses at the undergraduate level.
 
-### Find me at:
-My 2024 conference season is at an end! Glad to have met so many great people this year. See you next year!
-- ~~SEALS 33 (Taipei, Taiwan - 06/24)~~
-- ~~ICAL 16 (Manila, Philippines - 06/24)~~
-- ~~LabPhon 19 (Seoul, South Korea - 06/24)~~
-- ~~Speech Prosody (Leiden, Netherlands - 07/24)~~
-- ~~Syntax of the World's Languages IX (Lima, Peru - 07/24)~~
+My research spans several different areas of linguistic inquiry. Here are a few topics I have worked on to greater detail:
+- Acoustics and grammatical functions of word stress and prosodic prominence
+- Case marking systems, specifically categories of non-core case
+- The expression of information structure (topic and focus)
+
+Prior to my journey into academic & linguistic research, I was (and still am!) a classical flutist. During my musical career, I particularly enjoyed performing as an orchestral music, and I was especially fond of performing opera.
 
 ### Currently brewing:
 - [Dune Coffee Roasters](https://www.dunecoffee.com/) (Santa Barbara, CA): Indonesia Bener Meriah Anaerobic Natural
