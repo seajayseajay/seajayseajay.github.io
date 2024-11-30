@@ -93,6 +93,8 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 | Year | Position/Role | Organization |
 | ---- | ------------- | ------------ |
+| 2024-2025 | Organizing committee | 27th Workshop on American Indigenous Languages (WAIL), UCSB |
+| 2024-2025 | Graduate student peer mentor | UCSB Department of Linguistics |
 | 2023-2024 | Organizing committee | 26th Workshop on American Indigenous Languages (WAIL), UCSB |
 | 2023-2024 | Graduate student peer mentor | UCSB Department of Linguistics |
 | 2022-2023 | Abstract reviewer | 25th Workshop on American Indigenous Languages (WAIL), UCSB |
