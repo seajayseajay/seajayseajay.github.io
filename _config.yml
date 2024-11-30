@@ -59,7 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "CJ Young"
+  name   : "CJ Young (he/him)"
   avatar : "/assets/images/cornfield-selfie-square.png"
   bio    : "PhD Candidate in Linguistics, University of California, Santa Barbara"
   location : "Santa Barbara, CA, USA"
