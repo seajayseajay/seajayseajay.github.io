@@ -49,6 +49,7 @@ I have taught extensively and regularly throughout my graduate studies at UCSB a
 
 | Date | Title | Course |
 | ---- | ----- | ------ |
+| TBD March 2025 | The Austronesian languages | Languages of the World, University of Oregon (Instructor: Dr. Guillem Belmar Viernes) |
 | November 30, 2023 | Sociophonetics | LING 106: Introduction to Phonetics, UCSB (Instructor: Sherry Chien) |
 | March 15, 2023 | Discourse-level syntax, Part II - Information Structure: Topic & Focus | LING 109: Introduction to Syntax, UCSB (Instructor: Eric W. Campbell) |
 | March 13, 2023 | Discourse-level syntax, Part I - Reference, Accessibility, Identifiability, Definiteness | LING 109: Introduction to Syntax, UCSB (Instructor: Eric W. Campbell) |
