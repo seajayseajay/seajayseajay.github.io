@@ -12,7 +12,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 ## Education
 
-| Years | Institution | Degree |
+| Dates | Institution | Degree |
 | ---- | ------ | -------------- |
 | 2019-present  | University of California, Santa Barbara | PhD in Linguistics<br>Advisor: Marianne Mithun |
 | 2017-2019 | National Taiwan University | MA in Linguistics<br>Advisor: Li-May Sung |
@@ -20,9 +20,15 @@ The research & teaching sections of my CV are listed on their respective pages o
 | 2012-2014 | Peabody Institute of the Johns Hopkins University | MM in Flute Performance |
 | 2008-2012 | University of Miami | BM in Flute Performance & Minor in German<br>*Summa cum laude* |
 
+## Appointments
+
+| Dates | Institution | Position |
+| ----- | ----------- | -------- |
+| Feb-Jun 2025 | National Chengchi University | Austronesian Studies Fellow<br>Advisor: Rik De Busser |
+
 ## Publications
 
-| Year | Author(s) & Title | Publication |
+| Date | Author(s) & Title | Publication |
 | ---- | ------ | ----------- |
 | 2024 | Young, Chun-Jan<br>[Non-core case marking in Batanic languages](https://doi.org/10.1515/stuf-2024-2013) | *STUF - Language Typology and Universals* |
 | 2024 | Young, Chun-Jan<br>[Acoustic correlates of penultimate and final stress in Yami](https://www.isca-archive.org/speechprosody_2024/young24_speechprosody.html) | *Proceedings of Speech Prosody 2024*|
@@ -30,14 +36,14 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 ### Dissertations & Theses
 
-| Year | Institution | Degree & Title |
+| Date | Institution | Degree & Title |
 | ---- | ----------- | -------------- |
 | In progress (expected 2026) | University of California, Santa Barbara | PhD Dissertation<br>Prosodic prominence in *o ciriciring no tao do pongso* (Yami/Tao), an Austronesian language of Orchid Island, Taiwan |
 | 2019 | National Taiwan University | MA Thesis<br>The *am*-construction in Yami |
 
 ## Conference Presentations
 
-| Year | Author(s) & Title | Conference & Location |
+| Date | Author(s) & Title | Conference & Location |
 | ---- | -------------- | --------------------- |
 | 2024 | Young, Chun-Jan<br>Iconicity as grammar: functions of prosody and reduplication in Yami | 9th Syntax of the World's Languages (SWL IX)<br>Lima, Peru |
 | 2024 | Young, Chun-Jan<br>Acoustic correlates of penultimate and final stress in Yami (poster) | Speech Prosody 2024<br>Leiden, Netherlands |
@@ -63,7 +69,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 ## Grants
 
-| Year | Grant | Organization |
+| Date | Grant | Organization |
 | ---- | ----- | ------------ |
 | 2024 | Humanities & Social Sciences Research Grant | UCSB Graduate Division |
 | 2024 | Fieldwork Grant | Wallace Chafe & Marianne Mithun Fund for Research on Understudied Languages |
@@ -71,7 +77,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 ## Research Assistantships
 
-| Year | Project | Supervisor |
+| Date | Project | Supervisor |
 | ---- | ------- | ---------- |
 | 2024 | Analysis of Electromagnetic Articulography (EMA) data of vowel quantity in spoken Estonian | Argyro Katsika & Matthew Gordon (UCSB) |
 | 2023 | Musical transcription of Sapé songs | Jorge Emilio Rosés Labrada (UAlberta) |
@@ -81,8 +87,9 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 ## Professional Memberships
 
-| Year | Organization |
+| Date | Organization |
 | ---- | ------------ |
+| 2025-present | Association for Linguistic Typology |
 | 2024-present | Association for Laboratory Phonology |
 | 2024-present | Acoustical Society of America |
 | 2024-present | International Phonetic Association |
@@ -91,7 +98,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 ## Service
 
-| Year | Position/Role | Organization |
+| Dates | Position/Role | Organization |
 | ---- | ------------- | ------------ |
 | 2024-2025 | Organizing committee | 27th Workshop on American Indigenous Languages (WAIL), UCSB |
 | 2024-2025 | Graduate student peer mentor | UCSB Department of Linguistics |
@@ -109,7 +116,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 ## Fellowships, Scholarships, and Awards
 
-| Year | Award | Organization |
+| Date | Award | Organization |
 | ---- | ----- | ------------ |
 | 2024 | (Nominated) Excellence in Teaching Award | UCSB Graduate Student Association |
 | 2020-2022 | Study Abroad Scholarship | ROC (Taiwan) Ministry of Education |
@@ -126,7 +133,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 ### Examinations and Certifications
 
-| Year | Language | Level | Examination/certification |
+| Date | Language | Level | Examination/certification |
 | ---- | -------- | ----- | ------------------------- |
 | 2019 | Japanese | N3 | Japanese Language Proficiency Test (JLPT) |
 | 2018 | Tao/Yami | Intermediate | Taiwan Indigenous Language Proficiency Test |
