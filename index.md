@@ -7,7 +7,11 @@ layout: single
 author_profile: true
 ---
 
-# Hello!
+# Latest news
+
+I have been selected as a [2024-25 Austronesian Studies Fellow](https://ofas.nccu.edu.tw/news/60) at [National Chengchi University](https://www.nccu.edu.tw/index.php?Lang=en) in Taipei, Taiwan!
+
+## Hello!
 
 Welcome to my website! I am a linguist, and my research has largely centered around the language spoken by the Indigenous Tao/Yami islanders of Orchid Island, southeastern Taiwan. I am a PhD Candidate at the University of California, Santa Barbara, where I am a member of the [SPArK Phonetics Lab](https://www.ucsb-spark.com/) led by Dr. Argyro Katsika and the Language Documentation Lab led by Dr. Marianne Mithun, and I am an assistant director of the OLA (Ortografías en Lenguas Aborígenes) Lab led by Dr. Eric W. Campbell. I also regularly teach linguistics courses at the undergraduate level.
 
