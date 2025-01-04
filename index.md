@@ -9,7 +9,7 @@ author_profile: true
 
 # Latest news
 
-I have been selected as a [2024 Austronesian Studies Fellow](https://ofas.nccu.edu.tw/news/60) at [National Chengchi University](https://www.nccu.edu.tw/index.php?Lang=en) in Taipei, Taiwan! I will spend 4 months in 2025 in residence at NCCU working with Dr. Rik De Busser and conducting fieldwork on Orchid Island for my project on focus in video and conversational data in Tao/Yami!
+I have been selected as a [2024-25 Austronesian Studies Fellow](https://ofas.nccu.edu.tw/news/60) at [National Chengchi University](https://www.nccu.edu.tw/index.php?Lang=en) in Taipei, Taiwan! I will spend 4 months in 2025 in residence at NCCU working with Dr. Rik De Busser and conducting fieldwork on Orchid Island for my project on focus in video and conversational data in Tao/Yami!
 
 ## Hello!
 
