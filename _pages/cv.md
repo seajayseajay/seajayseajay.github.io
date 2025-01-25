@@ -24,7 +24,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 | Dates | Institution | Position |
 | ----- | ----------- | -------- |
-| Feb-Jun 2025 | National Chengchi University<br>Taipei, Taiwan | Austronesian Studies Fellow<br>Advisor: Rik De Busser |
+| Feb-Jun 2025 | National Chengchi University<br>Taipei, Taiwan | Fellow in Austronesian Studies<br>Advisor: Rik De Busser |
 
 ## Publications
 
