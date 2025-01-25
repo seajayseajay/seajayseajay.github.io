@@ -14,17 +14,17 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 | Dates | Institution | Degree |
 | ---- | ------ | -------------- |
-| 2019-present  | University of California, Santa Barbara | PhD in Linguistics<br>Advisor: Marianne Mithun |
-| 2017-2019 | National Taiwan University | MA in Linguistics<br>Advisor: Li-May Sung |
-| 2014-2015 | University of Miami | AD in Flute Performance<br>Studio of Trudy Kane |
-| 2012-2014 | Peabody Institute of the Johns Hopkins University | MM in Flute Performance<br>Studio of Marina Piccinini |
-| 2008-2012 | University of Miami | BM in Flute Performance & Minor in German<br>Studio of Trudy Kane<br>*Summa cum laude* |
+| 2019-present  | University of California, Santa Barbara<br>Santa Barbara, CA, USA | PhD in Linguistics<br>Advisor: Marianne Mithun |
+| 2017-2019 | National Taiwan University<br>Taipei, Taiwan | MA in Linguistics<br>Advisor: Li-May Sung |
+| 2014-2015 | University of Miami<br>Coral Gables, FL, USA | AD in Flute Performance<br>Studio of Trudy Kane |
+| 2012-2014 | Peabody Institute of the Johns Hopkins University<br>Baltimore, MD, USA | MM in Flute Performance<br>Studio of Marina Piccinini |
+| 2008-2012 | University of Miami<br>Coral Gables, FL, USA | BM in Flute Performance & Minor in German<br>Studio of Trudy Kane<br>*Summa cum laude* |
 
 ## Appointments
 
 | Dates | Institution | Position |
 | ----- | ----------- | -------- |
-| Feb-Jun 2025 | National Chengchi University | Austronesian Studies Fellow<br>Advisor: Rik De Busser |
+| Feb-Jun 2025 | National Chengchi University<br>Taipei, Taiwan | Austronesian Studies Fellow<br>Advisor: Rik De Busser |
 
 ## Publications
 
