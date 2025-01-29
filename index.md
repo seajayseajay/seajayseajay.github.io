@@ -24,7 +24,7 @@ My research spans several different areas of linguistic inquiry. Here are a few 
 Prior to my journey into academic & linguistic research, I was (and still am!) a classical flutist. During my musical career, I particularly enjoyed performing as an orchestral musician, and I was especially fond of performing opera.
 
 ### Currently brewing:
-- [Dune Coffee Roasters](https://www.dunecoffee.com/) (Santa Barbara, CA): Guatemala Martín Lopez Washed Field Blend
+- [Dune Coffee Roasters](https://www.dunecoffee.com/) (Santa Barbara, CA): Ethiopia Idido Natural Landrace
 
 ### Contact me at:
 - <chun-jan@ucsb.edu> or <young.chunjan@gmail.com>
