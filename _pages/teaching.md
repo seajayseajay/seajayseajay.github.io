@@ -15,9 +15,14 @@ I have taught extensively and regularly throughout my graduate studies at UCSB a
 
 | Term (Quarter) | Code | Course |
 | -------------- | ---- | ------ |
+| Winter 2025 | LING 505 | Teaching in Linguistics* |
+| Fall 2024 | LING 505 | Teaching in Linguistics* |
 | Winter 2024 | LING 20  | Language & Linguistics |
+| Spring 2023 | LING 505 | Teaching in Linguistics* |
 | Fall 2022 | LING 106 | Introduction to Phonetics |
 | Spring 2022 | LING 115 | Introduction to Historical Comparative Linguistics |
+
+*Officially listed for LING 505 as a TA, but I was in charge of the entire course.
 
 ## Teaching Assistant
 
@@ -25,11 +30,9 @@ I have taught extensively and regularly throughout my graduate studies at UCSB a
 
 | Term (Quarter) | Code | Course | Instructor |
 |  -------------- |---- | ------ | ---------- |
-| Winter 2025 | LING 505 | Teaching in Linguistics |
-| Fall 2024 | LING 505 | Teaching in Linguistics |
+
 | Spring 2024 | LING 80 | Endangered Languages | Jaime Pérez González |
 | Fall 2023 | LING 106 | Introduction to Phonetics | Sherry Chien |
-| Spring 2023 | LING 505 | Teaching in Linguistics |
 | Winter 2023 | LING 109 | Introduction to Syntax | Eric W. Campbell |
 | Winter 2022 | LING 145 | Articulatory Phonetics | Jiyoung Jang |
 | Fall 2021 | LING 20 | Language & Linguistics | Robert Kennedy |
