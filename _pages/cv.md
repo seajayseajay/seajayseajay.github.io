@@ -33,8 +33,6 @@ The research & teaching sections of my CV are listed on their respective pages o
 | 2024 | Young, Chun-Jan<br>[Non-core case marking in Batanic languages](https://doi.org/10.1515/stuf-2024-2013) | *STUF - Language Typology and Universals* |
 | 2024 | Young, Chun-Jan<br>[Acoustic correlates of penultimate and final stress in Yami](https://www.isca-archive.org/speechprosody_2024/young24_speechprosody.html) | *Proceedings of Speech Prosody 2024*|
 | 2024 (submitted) | Young, Chun-Jan<br>K-pop, bottoms, and muscles: Discourses and ideologies of masculinity in an online community of gay Asian men | Robert Lawson, (ed.): *Digital Masculinities* (Title TBA) |
-| In prep. (expected 2028) | Young, Chun-Jan<br>The Bashiic languages | M. Kristina Gallego et al. (ed.): *Handbook of Philippine Languages* |
-| In prep. (expected 2028) | Farinella, Alessa & Chun-Jan Young<br>Prosody in (two) Philippine languages | M. Kristina Gallego et al. (ed.): *Handbook of Philippine Languages* |
 
 ### Dissertations & Theses
 
