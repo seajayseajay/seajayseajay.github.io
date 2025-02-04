@@ -25,7 +25,7 @@ Prior to my journey into academic & linguistic research, I was (and still am!) a
 
 ### Currently brewing:
 - [Dune Coffee Roasters](https://www.dunecoffee.com/) (Santa Barbara, CA): Ethiopia Idido Natural Landrace
-- [Iron & Kin Coffee](https://www.ironandkin.com/) (Claremont, CA): El Salvador Los Pirineos Black Honey
+- [Iron & Kin Coffee](https://www.ironandkin.com/) (Claremont, CA): El Salvador Los Pirineos Black Honey Pacamara
 
 ### Contact me at:
 - <chun-jan@ucsb.edu> or <young.chunjan@gmail.com>
