@@ -32,7 +32,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 | ---- | ------ | ----------- |
 | 2024 | Young, Chun-Jan<br>[Non-core case marking in Batanic languages](https://doi.org/10.1515/stuf-2024-2013) | *STUF - Language Typology and Universals* |
 | 2024 | Young, Chun-Jan<br>[Acoustic correlates of penultimate and final stress in Yami](https://www.isca-archive.org/speechprosody_2024/young24_speechprosody.html) | *Proceedings of Speech Prosody 2024*|
-| 2024 (submitted) | Young, Chun-Jan<br>K-pop, bottoms, and muscles: Discourses and ideologies of masculinity in an online community of gay Asian men | Robert Lawson, (ed.): *Digital Masculinities* (Title TBA) |
+| 2024 (submitted) | Young, Chun-Jan<br>K-pop, bottoms, and muscles: Discourses and ideologies of masculinity in an online community of gay Asian men | Robert Lawson, (ed.): *Discourses of Digital Masculinities* |
 
 ### Dissertations & Theses
 
