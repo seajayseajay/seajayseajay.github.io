@@ -52,9 +52,9 @@ I have taught extensively and regularly throughout my graduate studies at UCSB a
 
 | Date | Title | Course |
 | ---- | ----- | ------ |
-| March 3, 2025 | The Austronesian languages: tales of the sea | LING 211: Languages of the World, University of Oregon (Instructor: Guillem Belmar Viernes) |
-| November 30, 2023 | Sociophonetics | LING 106: Introduction to Phonetics, UCSB (Instructor: Sherry Chien) |
-| March 15, 2023 | Discourse-level syntax, Part II - Information Structure: Topic & Focus | LING 109: Introduction to Syntax, UCSB (Instructor: Eric W. Campbell) |
-| March 13, 2023 | Discourse-level syntax, Part I - Reference, Accessibility, Identifiability, Definiteness | LING 109: Introduction to Syntax, UCSB (Instructor: Eric W. Campbell) |
-| October 26, 2022 | Online selfing: what it means to be 'gaysian' | LING 50: Language and Power, UCSB (Instructor: Guillem Belmar Viernes) |
-| October 27, 2021 | The discursive creation of "gaysian" identity on Reddit| LING 50: Language and Power, UCSB (Instructor: Guillem Belmar Viernes) |
+| March 3, 2025 | The Austronesian languages: tales of the sea | LING 211: Languages of the World, University of Oregon<br>Instructor: Guillem Belmar Viernes |
+| November 30, 2023 | Sociophonetics | LING 106: Introduction to Phonetics, UCSB<br>Instructor: Sherry Chien |
+| March 15, 2023 | Discourse-level syntax, Part II - Information Structure: Topic & Focus | LING 109: Introduction to Syntax, UCSB<br>Instructor: Eric W. Campbell |
+| March 13, 2023 | Discourse-level syntax, Part I - Reference, Accessibility, Identifiability, Definiteness | LING 109: Introduction to Syntax, UCSB<br>Instructor: Eric W. Campbell |
+| October 26, 2022 | Online selfing: what it means to be 'gaysian' | LING 50: Language and Power, UCSB<br>Instructor: Guillem Belmar Viernes |
+| October 27, 2021 | The discursive creation of "gaysian" identity on Reddit| LING 50: Language and Power, UCSB<br>Instructor: Guillem Belmar Viernes |
