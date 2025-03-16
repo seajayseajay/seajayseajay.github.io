@@ -26,8 +26,8 @@ My research spans several different areas of linguistic inquiry. Here are a few 
 Prior to my journey into academic & linguistic research, I was (and still am!) a classical flutist. During my musical career, I particularly enjoyed performing as an orchestral musician, and I was especially fond of performing opera.
 
 ### Currently brewing:
-- [Iron & Kin Coffee](https://www.ironandkin.com/) (Claremont, CA): El Salvador Los Pirineos Black Honey Pacamara
-- [Ruins Coffee Roasters](https://www.facebook.com/RuinsCoffeeRoasters) (Taipei, Taiwan): Costa Rica Mozart Tarrazu Natural Caturra
+- [All Day Roasting Company](https://www.allday-normal.com/) (Taipei, Taiwan): Kenya Embu Kevote SL 28 Ruiru 11 Washed
+- [All Day Roasting Company](https://www.allday-normal.com/) (Taipei, Taiwan): Guatemala La Flor Huehuetenango/San Marcos/Quetzaltenango Caturra/Bourbon/Catuai Double Anaerobic Washed
 
 ### Contact me at:
 - <chun-jan@ucsb.edu> or <young.chunjan@gmail.com>
