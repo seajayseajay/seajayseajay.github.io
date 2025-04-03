@@ -20,19 +20,15 @@ The research & teaching sections of my CV are listed on their respective pages o
 | 2012-2014 | Peabody Institute of the Johns Hopkins University<br>Baltimore, MD, USA | MM in Flute Performance<br>Studio of Marina Piccinini |
 | 2008-2012 | University of Miami<br>Coral Gables, FL, USA | BM in Flute Performance & Minor in German<br>Studio of Trudy Kane<br>*Summa cum laude* |
 
-## Appointments
-
-| Dates | Institution | Position |
-| ----- | ----------- | -------- |
-| Feb-Jun 2025 | National Chengchi University<br>Taipei, Taiwan | Fellow in Austronesian Studies<br>Advisor: Rik De Busser |
-
 ## Publications
 
 | Date | Author(s) & Title | Publication |
 | ---- | ------ | ----------- |
 | 2024 | Young, Chun-Jan<br>[Non-core case marking in Batanic languages](https://doi.org/10.1515/stuf-2024-2013) | *STUF - Language Typology and Universals* |
 | 2024 | Young, Chun-Jan<br>[Acoustic correlates of penultimate and final stress in Yami](https://www.isca-archive.org/speechprosody_2024/young24_speechprosody.html) | *Proceedings of Speech Prosody 2024*|
-| 2024 (submitted) | Young, Chun-Jan<br>K-pop, bottoms, and muscles: Discourses and ideologies of masculinity in an online community of gay Asian men | Robert Lawson, (ed.): *Discourses of Digital Masculinities* |
+| 2025 (in revision) | Young, Chun-Jan<br>K-pop, bottoms, and muscles: Discourses and ideologies of masculinity in an online community of gay Asian men | Robert Lawson, (ed.): *Discourses of Digital Masculinities* |
+| In prep. | Young, Chun-Jan<br>The Bashiic languages | M. Kristina Gallego, et al. (ed.): *Handbook of Philippine Languages* |
+| In prep. | Farinella, Alessa, & Chun-Jan Young<br>Prosody in (two) Philippine languages | M. Kristina Gallego, et al. (ed.): *Studies in Philippine Languages* |
 
 ### Dissertations & Theses
 
@@ -45,6 +41,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 | Date | Author(s) & Title | Conference & Location |
 | ---- | -------------- | --------------------- |
+| 2025 (accepted) | Belmar Viernes, Guillem, Eric W. Campbell, Noemy Condori Arias, Martín Gabriel Ruiz, Ryan Ka Yau Lai, James R. Yee, & Chun-Jan Young<br>*Mitientsi kuajperakuechani*: Translating and disseminating legal information for the P'urhépecha diaspora in the US | 4th International Conference on the Revitalization of Minoritized Languages (CIRLIM IV)<br>Kyoto, Japan |
 | 2025 (accepted) | Young, Chun-Jan<br>Strategies of focus marking in Tao/Yami | 34th Meeting of the Southeast Asian Linguistic Society (SEALS 34)<br>Bali, Indonesia |
 | 2024 | Young, Chun-Jan<br>Iconicity as grammar: functions of prosody and reduplication in Yami | 9th Syntax of the World's Languages (SWL IX)<br>Lima, Peru |
 | 2024 | Young, Chun-Jan<br>Acoustic correlates of penultimate and final stress in Yami (poster) | Speech Prosody 2024<br>Leiden, Netherlands |
@@ -72,6 +69,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 | Date | Grant | Organization |
 | ---- | ----- | ------------ |
+| 2025 | Austronesian Studies Fellowship | National Chengchi University |
 | 2024 | Humanities & Social Sciences Research Grant | UCSB Graduate Division |
 | 2024 | Fieldwork Grant | Wallace Chafe & Marianne Mithun Fund for Research on Understudied Languages |
 | 2023 | Short-Term Research Grant | UCSB Center for Taiwan Studies |
