@@ -60,7 +60,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 | Date | Title | Venue |
 | ---- | ----- | ----- |
-| April 21, 2025 | Title TBA | National Taiwan University Graduate Institute of Linguistics |
+| April 23, 2025 | Title TBA | National Taiwan University Graduate Institute of Linguistics |
 | February 6, 2024 | (Re-)examining lexical stress in Yami | UCSB Language Documentation Lab |
 | October 7, 2022 | Prosodic structure in Tao (Yami): the case of the Accentual Phrase (a very preliminary methodological proposal) | UCSB Phonetics Circle |
 | May 28, 2020 | Oblique marking of definite arguments: an analysis of Yami *so* in discourse | New Approaches to Indigenous Languages (NAIL), UCSB Department of Linguistics |
