@@ -11,7 +11,8 @@ author_profile: true
 
 ## Latest news
 
-I have been selected as an [Austronesian Studies Fellow](https://ofas.nccu.edu.tw/news/60) at [National Chengchi University](https://www.nccu.edu.tw/index.php?Lang=en) in Taipei, Taiwan! I will spend 4 months in 2025 in residence at NCCU working with Dr. Rik De Busser and conducting fieldwork on Orchid Island for my project on focus in video and conversational data in Tao/Yami.
+- I will be giving a talk on Wednesday, April 23, 2025 at my MA alma mater, the Graduate Institute of Linguistics at National Taiwan University (臺大語言所)! The talk is entitled 'Towards a revised account of word stress in Yami (Tao)'.
+- I will be attending the 34th Meeting of the Southeast Asian Linguistics Society (SEALS 34) in Bali, Indonesia from June 11-13, 2025, where I will be presenting the talk 'Strategies of focus marking in Yami (Tao)'. Hope to see you there!
 
 ## Hello!
 
