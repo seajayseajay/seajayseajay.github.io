@@ -26,7 +26,7 @@ My research spans several different areas of linguistic inquiry. Here are a few 
 Prior to my journey into academic & linguistic research, I was (and still am!) a classical flutist. During my musical career, I particularly enjoyed performing as an orchestral musician, and I was especially fond of performing opera.
 
 ### Currently brewing:
-- [Enroute Coffee](enroutecoffee.tw): Colombia Hacienda Sonora Caturra Black Honey Process
+- [Enroute Coffee](enroutecoffee.tw): Costa Rica Hacienda Sonora Caturra Black Honey Process
 - [Enroute Coffee](enroutecoffee.tw): Ethiopia Guji Hambella Red Honey Process G1
 - [Dune Coffee Roasters](dunecoffee.com): Colombia Alexander Vargas Anaerobic Natural Pink Bourbon
 
