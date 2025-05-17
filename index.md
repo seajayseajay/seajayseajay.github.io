@@ -27,7 +27,7 @@ Prior to my journey into academic & linguistic research, I was (and still am!) a
 
 ### Currently brewing:
 - [Enroute Coffee](enroutecoffee.tw): Costa Rica Hacienda Sonora Caturra Black Honey Process
-- [Enroute Coffee](enroutecoffee.tw): Ethiopia Guji Hambella Red Honey Process G1
+- [Enroute Coffee](enroutecoffee.tw): Ethiopia Guji Hambela Red Honey Process G1
 - [Dune Coffee Roasters](dunecoffee.com): Colombia Alexander Vargas Anaerobic Natural Pink Bourbon
 
 ### Contact me at:
