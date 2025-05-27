@@ -19,14 +19,13 @@ I am a linguist, and my research has largely centered around the language spoken
 
 My research spans several different areas of linguistic inquiry. Here are a few topics I have worked on to greater detail:
 - Acoustics and grammatical functions of word stress and prosodic prominence
+- The expression of information structure (topic and focus)
 - Case marking systems, specifically non-core case categories
 - Clause chaining and other complex clause linkage strategies
-- The expression of information structure (topic and focus)
 
 Prior to my journey into academic & linguistic research, I was (and still am!) a classical flutist. During my musical career, I particularly enjoyed performing as an orchestral musician, and I was especially fond of performing opera.
 
 ### Currently brewing:
-- [Enroute Coffee](enroutecoffee.tw): Costa Rica Hacienda Sonora Caturra Black Honey Process
 - [Enroute Coffee](enroutecoffee.tw): Ethiopia Guji Hambela Red Honey Process G1
 - [Dune Coffee Roasters](dunecoffee.com): Colombia Alexander Vargas Anaerobic Natural Pink Bourbon
 
