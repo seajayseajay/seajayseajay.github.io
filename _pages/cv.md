@@ -79,7 +79,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 | Date | Project | Supervisor |
 | ---- | ------- | ---------- |
-| 2024 | Analysis of Electromagnetic Articulography (EMA) data of vowel quantity in spoken Estonian | Argyro Katsika & Matthew Gordon (UCSB) |
+| 2024-2025 | Analysis of Electromagnetic Articulography (EMA) data of vowel quantity in spoken Estonian | Argyro Katsika & Matthew Gordon (UCSB) |
 | 2023 | Musical transcription of Sapé songs | Jorge Emilio Rosés Labrada (UAlberta) |
 | 2021 | *kal2eng*: Machine translation of Kalaallisut (West Greenlandic) to English | Per Langgård (Oqaasileriffik/Language Secretariat of Greenland) |
 | 2018-2019 | Transcription of field data for the NTU Corpus of Formosan Languages; digitization and morphological analysis of original Yami/Tao manuscripts | Li-May Sung (NTU) |
@@ -101,6 +101,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 | Dates | Position/Role | Organization |
 | ---- | ------------- | ------------ |
 | 2024-2025 | Organizing committee | 27th Workshop on American Indigenous Languages (WAIL), UCSB |
+| 2024-2025 | Abstract reviewer | 27th Annual Conference on Language, Interaction, & Social Organization (LISO), UCSB |
 | 2024-2025 | Graduate student peer mentor | UCSB Department of Linguistics |
 | 2023-2024 | Organizing committee | 26th Workshop on American Indigenous Languages (WAIL), UCSB |
 | 2023-2024 | Graduate student peer mentor | UCSB Department of Linguistics |
