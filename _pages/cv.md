@@ -6,7 +6,7 @@ toc_label: "CV"
 toc_sticky: true
 ---
 
-Download my full CV in PDF here (will upload soon).
+My full CV in PDF form is available upon request.
 
 The research & teaching sections of my CV are listed on their respective pages on this website and are therefore omitted below.
 
@@ -42,7 +42,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 | Date | Author(s) & Title | Conference & Location |
 | ---- | -------------- | --------------------- |
 | 2025 (accepted) | Belmar, Guillem, Eric W. Campbell, Noemy Condori Arias, Martín Gabriel Ruiz, Ryan Ka Yau Lai, James R. Yee, & Chun-Jan Young<br>*Mitientsi kuajperakuechani*: Translating and disseminating legal information for the P'urhépecha diaspora in the US | 4th International Conference on the Revitalization of Indigenous and Minoritized Languages (CIRLIM IV)<br>Kyoto, Japan |
-| 2025 (accepted) | Young, Chun-Jan<br>Strategies of focus marking in Tao/Yami | 34th Meeting of the Southeast Asian Linguistic Society (SEALS 34)<br>Bali, Indonesia |
+| 2025 | Young, Chun-Jan<br>Strategies of focus marking in Tao/Yami | 34th Meeting of the Southeast Asian Linguistic Society (SEALS 34)<br>Bali, Indonesia |
 | 2024 | Young, Chun-Jan<br>Iconicity as grammar: functions of prosody and reduplication in Yami | 9th Syntax of the World's Languages (SWL IX)<br>Lima, Peru |
 | 2024 | Young, Chun-Jan<br>Acoustic correlates of penultimate and final stress in Yami (poster) | Speech Prosody 2024<br>Leiden, Netherlands |
 | 2024 | Young, Chun-Jan<br>Lexical stress in Yami: investigating penultimate and final prominence (poster) | 19th Conference on Laboratory Phonology (LabPhon 19)<br>Seoul, South Korea |
@@ -129,8 +129,8 @@ The research & teaching sections of my CV are listed on their respective pages o
 | Level | Languages |
 | ----- | --------- |
 | Native or fluent | English, Mandarin Chinese |
-| Intermediate | Dutch, German, Japanese, Spanish |
-| Research | Tao/Yami, Northern Paiwan, P'urhépecha |
+| Intermediate | Dutch, German, Japanese, Spanish, Tao/Yami |
+| Research | Tao/Yami, Northern Paiwan, P'urhépecha, some Mixtec & Zapotec varieties |
 
 ### Examinations and Certifications
 
