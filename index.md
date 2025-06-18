@@ -11,7 +11,7 @@ author_profile: true
 
 ## Latest news
 
-- I will be attending the 34th Meeting of the Southeast Asian Linguistics Society (SEALS 34) in Bali, Indonesia from June 11-13, 2025, where I will be presenting the talk 'Strategies of focus marking in Yami (Tao)'. Hope to see you there!
+- I will be attending the 4th International Conference on the Revitalization of Indigenous and Minoritized Languages (CIRLIM IV) on September 12-14 in Kyoto, Japan. I will be a part of the joint presentation '*Mitientsi kuajperakuechani*: Translating and disseminating legal information for the P’urhépecha diaspora in the US' with my colleagues from UCSB. Hope to see you there!
 
 ## Hello!
 
@@ -26,7 +26,6 @@ My research spans several different areas of linguistic inquiry. Here are a few 
 Prior to my journey into academic & linguistic research, I was (and still am!) a classical flutist. During my musical career, I particularly enjoyed performing as an orchestral musician, and I was especially fond of performing opera.
 
 ### Currently brewing:
-- [Enroute Coffee](enroutecoffee.tw): Ethiopia Guji Hambela Red Honey Process G1
 - [Dune Coffee Roasters](dunecoffee.com): Colombia Alexander Vargas Anaerobic Natural Pink Bourbon
 
 ### Contact me at:
