@@ -15,6 +15,7 @@ I have taught extensively and regularly throughout my graduate studies at UCSB a
 
 | Term (Quarter) | Code | Course |
 | -------------- | ---- | ------ |
+| Winter 2026 | LING 20 | Language & Linguistics |
 | Winter 2025 | LING 505 | Teaching in Linguistics* |
 | Fall 2024 | LING 505 | Teaching in Linguistics* |
 | Winter 2024 | LING 20  | Language & Linguistics |
