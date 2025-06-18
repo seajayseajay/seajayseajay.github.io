@@ -23,7 +23,7 @@ I have taught extensively and regularly throughout my graduate studies at UCSB a
 | Fall 2022 | LING 106 | Introduction to Phonetics |
 | Spring 2022 | LING 115 | Introduction to Historical Comparative Linguistics |
 
-*Officially listed for LING 505 as a TA, but I was in charge of the entire course.
+*The official position for LING 505 is TA; however, this position functions as an instructor of record in practice.
 
 ## Teaching Assistant
 
