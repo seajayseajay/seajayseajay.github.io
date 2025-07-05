@@ -26,8 +26,8 @@ My research spans several different areas of linguistic inquiry. Here are a few 
 Prior to my journey into academic & linguistic research, I was (and still am!) a classical flutist. During my musical career, I particularly enjoyed performing as an orchestral musician, and I was especially fond of performing opera.
 
 ### Currently brewing:
-- [Dune Coffee Roasters](dunecoffee.com): Colombia Alexander Vargas Anaerobic Natural Pink Bourbon
-- [N1 Coffee & Co.](https://www.n1coffee.hk/): Colombia Tolima El Vergel Estate Natural Anaerobic Red & Yellow Caturra
+- [Dune Coffee Roasters](dunecoffee.com) (Santa Barbara, CA, USA): Colombia Alexander Vargas Anaerobic Natural Pink Bourbon
+- [N1 Coffee & Co.](https://www.n1coffee.hk/) (Hong Kong): Colombia Tolima El Vergel Estate Natural Anaerobic Red & Yellow Caturra
 
 ### Contact me at:
 - <chun-jan@ucsb.edu> or <young.chunjan@gmail.com>
