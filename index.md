@@ -27,6 +27,7 @@ Prior to my journey into academic & linguistic research, I was (and still am!) a
 
 ### Currently brewing:
 - [Dune Coffee Roasters](dunecoffee.com): Colombia Alexander Vargas Anaerobic Natural Pink Bourbon
+- [N1 Coffee & Co.](https://www.n1coffee.hk/): Colombia Tolima El Vergel Estate Natural Anaerobic Red & Yellow Caturra
 
 ### Contact me at:
 - <chun-jan@ucsb.edu> or <young.chunjan@gmail.com>
