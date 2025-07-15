@@ -29,6 +29,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 | 2025 (in revision) | Young, Chun-Jan<br>K-pop, bottoms, and muscles: Discourses and ideologies of masculinity in an online community of gay Asian men | Robert Lawson, (ed.): *Discourses of Digital Masculinities* |
 | In prep. | Young, Chun-Jan<br>The Bashiic languages | M. Kristina Gallego, et al. (ed.): *Handbook of Philippine Languages* |
 | In prep. | Farinella, Alessa, & Chun-Jan Young<br>Prosody in (two) Philippine languages | M. Kristina Gallego, et al. (ed.): *Studies in Philippine Languages* |
+| In prep. | Young, Chun-Jan<br>Kinship terms in Yami | Elizabeth Zeitoun & Hong-sui Lim (ed.): *An exploration of kinship terminologies in the Austronesian languages of Taiwan* |
 
 ### Dissertations & Theses
 
