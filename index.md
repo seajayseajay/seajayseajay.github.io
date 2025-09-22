@@ -11,7 +11,7 @@ author_profile: true
 
 ## Latest news
 
-- I will be attending the 4th International Conference on the Revitalization of Indigenous and Minoritized Languages (CIRLIM IV) on September 12-14 in Kyoto, Japan. I will be a part of the joint presentation '*Mitientsi kuajperakuechani*: Translating and disseminating legal information for the P’urhépecha diaspora in the US' with my colleagues from UCSB. Hope to see you there!
+- I'm officially on the job market! I am open to academic postdoc, teaching-oriented, and tenure-track positions in linguistics (especially in the fields of morphosyntactic typology, phonetics, and/or language documentation).
 
 ## Hello!
 
