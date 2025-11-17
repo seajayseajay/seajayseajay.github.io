@@ -11,7 +11,7 @@ author_profile: true
 
 ## Latest news
 
-- I'm officially on the job market! I am open to academic postdoc, teaching-oriented, and tenure-track positions in linguistics (especially in the fields of morphosyntactic typology, phonetics, and/or language documentation).
+- I'm officially on the job market! I am open to academic postdoc, teaching-oriented, and tenure-track positions in linguistics (especially in the phonetics, morphosyntax, or information structure of less-studied languages).
 
 ## Hello!
 
