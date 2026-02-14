@@ -24,9 +24,10 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 | Date | Author(s) & Title | Publication |
 | ---- | ------ | ----------- |
+| 2026 (forthcoming) | Young, Chun-Jan, & Argyro Katsika<br>A first look at the prosody of focus and stress in Yami (Tao) | *Proceedings of Speech Prosody 2026* |
 | 2024 | Young, Chun-Jan<br>[Non-core case marking in Batanic languages](https://doi.org/10.1515/stuf-2024-2013) | *STUF - Language Typology and Universals* |
-| 2024 | Young, Chun-Jan<br>[Acoustic correlates of penultimate and final stress in Yami](https://www.isca-archive.org/speechprosody_2024/young24_speechprosody.html) | *Proceedings of Speech Prosody 2024*|
-| 2025 (in revision) | Young, Chun-Jan<br>K-pop, bottoms, and muscles: Discourses and ideologies of masculinity in an online community of gay Asian men | Robert Lawson, (ed.): *Discourses of Digital Masculinities* |
+| 2024 | Young, Chun-Jan<br>[Acoustic correlates of penultimate and final stress in Yami](https://www.isca-archive.org/speechprosody_2024/young24_speechprosody.html) | *Proceedings of Speech Prosody 2024* |
+| 2025 (submitted) | Young, Chun-Jan<br>K-pop, bottoms, and muscles: Discourses and ideologies of masculinity in an online community of gay Asian men | Robert Lawson, (ed.): *Discourses of Digital Masculinities* |
 | In prep. | Young, Chun-Jan<br>The Bashiic languages | M. Kristina Gallego, et al. (ed.): *Handbook of Philippine Languages* |
 | In prep. | Farinella, Alessa, & Chun-Jan Young<br>Prosody in (two) Philippine languages | M. Kristina Gallego, et al. (ed.): *Studies in Philippine Languages* |
 | In prep. | Young, Chun-Jan<br>Kinship terms in Yami | Elizabeth Zeitoun & Hong-sui Lim (ed.): *An exploration of kinship terminologies in the Austronesian languages of Taiwan* |
@@ -35,7 +36,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 | Date | Institution | Degree & Title |
 | ---- | ----------- | -------------- |
-| In progress (expected 2026) | University of California, Santa Barbara | PhD Dissertation<br>Prominence: stress and focus in *o ciriciring no tao do pongso* (Yami/Tao), an Austronesian language of Orchid Island, Taiwan |
+| Expected June 2026 | University of California, Santa Barbara | PhD Dissertation<br>Prominence on Orchid Island: stress and focus in *o ciriciring no tao do pongso* (Yami/Tao), an Austronesian language of Taiwan |
 | 2019 | National Taiwan University | MA Thesis<br>The *am*-construction in Yami |
 
 ## Conference Presentations
@@ -90,6 +91,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 | Date | Organization |
 | ---- | ------------ |
+| 2025-present | Society for the Study of the Indigenous Languages of the Americas |
 | 2025-present | Association for Linguistic Typology |
 | 2024-present | Association for Laboratory Phonology |
 | 2024-present | Acoustical Society of America |
