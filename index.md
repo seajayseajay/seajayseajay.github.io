@@ -12,7 +12,7 @@ author_profile: true
 ## Latest news
 
 - My paper "A first look at the prosody of focus and stress in Yami (Tao)" with Argyro Katsika has been accepted to the *Speech Prosody 2026* conference (May 26-29, 2026)! See you in Philadelphia!
-- I'm officially on the job market! I am open to academic positions in linguistics, anthropology, or related fields (e.g. East Asian studies).
+- I'm officially on the job market! I am open to academic positions (tenure-track, lecturer, postdoc) in Linguistics, Anthropology, or related fields (e.g. English, Modern Languages, East Asian studies, etc.).
 
 ## Hello!
 
