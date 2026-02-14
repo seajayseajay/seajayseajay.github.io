@@ -30,13 +30,13 @@ The research & teaching sections of my CV are listed on their respective pages o
 | 2025 (submitted) | Young, Chun-Jan<br>K-pop, bottoms, and muscles: Discourses and ideologies of masculinity in an online community of gay Asian men | Robert Lawson, (ed.): *Discourses of Digital Masculinities* |
 | In prep. | Young, Chun-Jan<br>The Bashiic languages | M. Kristina Gallego, et al. (ed.): *Handbook of Philippine Languages* |
 | In prep. | Farinella, Alessa, & Chun-Jan Young<br>Prosody in (two) Philippine languages | M. Kristina Gallego, et al. (ed.): *Studies in Philippine Languages* |
-| In prep. | Young, Chun-Jan<br>Kinship terms in Yami | Elizabeth Zeitoun & Hong-sui Lim (ed.): *An exploration of kinship terminologies in the Austronesian languages of Taiwan* |
+| In prep. | Young, Chun-Jan<br>Kinship terms in Tao/Yami | Elizabeth Zeitoun & Hong-sui Lim (ed.): *An exploration of kinship terminologies in the Austronesian languages of Taiwan* |
 
 ### Dissertations & Theses
 
 | Date | Institution | Degree & Title |
 | ---- | ----------- | -------------- |
-| Expected June 2026 | University of California, Santa Barbara | PhD Dissertation<br>Prominence on Orchid Island: stress and focus in *o ciriciring no tao do pongso* (Yami/Tao), an Austronesian language of Taiwan |
+| Expected June 2026 | University of California, Santa Barbara | PhD Dissertation<br>Prominence on Orchid Island: stress and focus in *o ciriciring no tao do pongso* (Tao/Yami), an Austronesian language of Taiwan |
 | 2019 | National Taiwan University | MA Thesis<br>The *am*-construction in Yami |
 
 ## Conference Presentations
