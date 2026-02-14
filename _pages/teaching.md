@@ -55,6 +55,7 @@ I have taught extensively and regularly throughout my graduate studies at UCSB a
 
 | Date | Title | Course |
 | ---- | ----- | ------ |
+| November 24, 2025 | Stories of islands and oceans: the Austronesian languages | LING 181: Languages of the World, UCSB<br>Instructor: Jessica K. Ivani |
 | March 3, 2025 | The Austronesian languages: tales of the sea | LING 211: Languages of the World, University of Oregon<br>Instructor: Guillem Belmar Viernes |
 | November 30, 2023 | Sociophonetics | LING 106: Introduction to Phonetics, UCSB<br>Instructor: Sherry Chien |
 | March 15, 2023 | Discourse-level syntax, Part II - Information Structure: Topic & Focus | LING 109: Introduction to Syntax, UCSB<br>Instructor: Eric W. Campbell |
