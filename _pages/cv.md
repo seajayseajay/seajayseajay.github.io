@@ -44,6 +44,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 | Date | Author(s) & Title | Conference & Location |
 | ---- | -------------- | --------------------- |
 | 2026 (accepted) | Young, Chun-Jan, & Argyro Katsika<br>A first look at the prosody of focus and stress in Yami (Tao) | Speech Prosody 2026<br>Philadelphia, PA, USA |
+| 2026 (accepted) | Aguilar, Ana, Talia Aguilar, Pedro Matias, Yesenia Perez, Jocelyn Vasquez, Cormac League, Chun-Jan Young, and Eric W. Campbell<br>*Ortografías en Lenguas Aborígenes*: Reclaiming Voice Through Language Work | 28th Workshop on American Indigenous Languages (WAIL 28)<br>Santa Barbara, CA, USA |
 | 2025 | Gabriel Ruiz, Martín, Guillem Belmar, Eric W. Campbell, Noemy Condori Arias, Ryan Ka Yau Lai, James R. Yee, & Chun-Jan Young<br>*Mitientsi kuajperakuechani*: Translating and disseminating legal information for the P'urhépecha diaspora in the US | 4th International Conference on the Revitalization of Indigenous and Minoritized Languages (CIRLIM IV)<br>Kyoto, Japan |
 | 2025 | Young, Chun-Jan<br>Strategies of focus marking in Tao/Yami | 34th Meeting of the Southeast Asian Linguistic Society (SEALS 34)<br>Bali, Indonesia |
 | 2024 | Young, Chun-Jan<br>Iconicity as grammar: functions of prosody and reduplication in Yami | 9th Syntax of the World's Languages (SWL IX)<br>Lima, Peru |
