@@ -31,7 +31,7 @@ I have taught extensively and regularly throughout my graduate studies at UCSB a
 
 | Term (Quarter) | Code | Course | Instructor |
 |  -------------- |---- | ------ | ---------- |
-| Spring 2026 | LING 15 | Language in Life | Robert Kennedy |
+| Spring 2026 | LING 36 | African American English | Tracy Conner |
 | Fall 2025 | LING 181 | Languages of the World | Jessica K. Ivani |
 | Spring 2024 | LING 80 | Endangered Languages | Jaime Pérez González |
 | Fall 2023 | LING 106 | Introduction to Phonetics | Sherry Chien |
