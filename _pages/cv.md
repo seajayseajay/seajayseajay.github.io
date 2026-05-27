@@ -24,7 +24,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 | Date | Author(s) & Title | Publication |
 | ---- | ------ | ----------- |
-| 2026 (forthcoming) | Young, Chun-Jan, & Argyro Katsika<br>A first look at the prosody of focus and stress in Yami (Tao) | *Proceedings of Speech Prosody 2026* |
+| 2026 | Young, Chun-Jan, & Argyro Katsika<br>[A first look at the prosody of focus and stress in Yami (Tao)](https://www.isca-archive.org/speechprosody_2026/young26_speechprosody.html) | *Proceedings of Speech Prosody 2026* |
 | 2024 | Young, Chun-Jan<br>[Non-core case marking in Batanic languages](https://doi.org/10.1515/stuf-2024-2013) | *STUF - Language Typology and Universals* |
 | 2024 | Young, Chun-Jan<br>[Acoustic correlates of penultimate and final stress in Yami](https://www.isca-archive.org/speechprosody_2024/young24_speechprosody.html) | *Proceedings of Speech Prosody 2024* |
 | 2025 (submitted) | Young, Chun-Jan<br>K-pop, bottoms, and muscles: Discourses and ideologies of masculinity in an online community of gay Asian men | Robert Lawson, (ed.): *Discourses of Digital Masculinities* |
@@ -36,15 +36,15 @@ The research & teaching sections of my CV are listed on their respective pages o
 
 | Date | Institution | Degree & Title |
 | ---- | ----------- | -------------- |
-| Expected June 2026 | University of California, Santa Barbara | PhD Dissertation<br>Prominence on Orchid Island: stress and focus in *o ciriciring no tao do pongso* (Tao/Yami), an Austronesian language of Taiwan |
+| Expected December 2026 | University of California, Santa Barbara | PhD Dissertation<br>Prominence on Orchid Island: stress and focus in *o ciriciring no tao do pongso* (Tao/Yami), an Austronesian language of Taiwan |
 | 2019 | National Taiwan University | MA Thesis<br>The *am*-construction in Yami |
 
 ## Conference Presentations
 
 | Date | Author(s) & Title | Conference & Location |
 | ---- | -------------- | --------------------- |
-| 2026 (accepted) | Young, Chun-Jan, & Argyro Katsika<br>A first look at the prosody of focus and stress in Yami (Tao) | Speech Prosody 2026<br>Philadelphia, PA, USA |
-| 2026 (accepted) | Aguilar, Ana, Talia Aguilar, Pedro Matias, Yesenia Perez, Jocelyn Vasquez, Cormac League, Chun-Jan Young, and Eric W. Campbell<br>*Ortografías en Lenguas Aborígenes*: Reclaiming Voice Through Language Work | 28th Workshop on American Indigenous Languages (WAIL 28)<br>Santa Barbara, CA, USA |
+| 2026 | Young, Chun-Jan, & Argyro Katsika<br>A first look at the prosody of focus and stress in Yami (Tao) | Speech Prosody 2026<br>Philadelphia, PA, USA |
+| 2026 | Aguilar, Ana, Talia Aguilar, Pedro Matias, Yesenia Perez, Jocelyn Vasquez, Cormac League, Chun-Jan Young, and Eric W. Campbell<br>*Ortografías en Lenguas Aborígenes*: Reclaiming Voice Through Language Work | 28th Workshop on American Indigenous Languages (WAIL 28)<br>Santa Barbara, CA, USA |
 | 2025 | Gabriel Ruiz, Martín, Guillem Belmar, Eric W. Campbell, Noemy Condori Arias, Ryan Ka Yau Lai, James R. Yee, & Chun-Jan Young<br>*Mitientsi kuajperakuechani*: Translating and disseminating legal information for the P'urhépecha diaspora in the US | 4th International Conference on the Revitalization of Indigenous and Minoritized Languages (CIRLIM IV)<br>Kyoto, Japan |
 | 2025 | Young, Chun-Jan<br>Strategies of focus marking in Tao/Yami | 34th Meeting of the Southeast Asian Linguistic Society (SEALS 34)<br>Bali, Indonesia |
 | 2024 | Young, Chun-Jan<br>Iconicity as grammar: functions of prosody and reduplication in Yami | 9th Syntax of the World's Languages (SWL IX)<br>Lima, Peru |
