@@ -29,6 +29,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 | 2024 | Young, Chun-Jan<br>[Acoustic correlates of penultimate and final stress in Yami](https://www.isca-archive.org/speechprosody_2024/young24_speechprosody.html) | *Proceedings of Speech Prosody 2024* |
 | 2025 (in press) | Young, Chun-Jan<br>K-pop, bottoms, and muscles: Discourses and ideologies of masculinity in an online community of gay Asian men | Robert Lawson, (ed.): *Discourses of Digital Masculinities* |
 | In revision | Young, Chun-Jan<br>Kinship terms in Tao/Yami | Elizabeth Zeitoun & Hong-sui Lim (ed.): *An exploration of kinship terminologies in the Austronesian languages of Taiwan* |
+| In prep. | Young, Chun-Jan, & Argyro Katsika<br>The phonetics of word stress and focus prosody in Tao/Yami |
 
 ### Dissertations & Theses
 
