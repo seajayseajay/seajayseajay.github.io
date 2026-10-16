@@ -12,6 +12,7 @@ author_profile: true
 ## Latest news
 
 - My conference talk "Contrastive focus and the role of prosody in Tao/Yami" has been accepted as an oral presentation to the Linguistic Society of America's (LSA) [Annual Meeting in January 2027](https://web.cvent.com/event/4c718093-cdd4-45b1-b649-a78146a2ea90/summary). See you in San Francisco!
+- I will also be presenting the talk "(Re)connecting to *Indígena* roots: Language cultivation and learning in the OLA Lab" together with Eric W. Campbell & members of the OLA Lab, as part of the special session *Haciendo camino: estrategias para el acompañamiento en el aprendizaje y la investigación de lenguas indígenas de herencia* (Making our way: strategies to accompany the learning of and research on Indigenous heritage languages) at the 2027 Meeting of the Society for the Study of Indigenous Languages of the Americas (SSILA 2027) in March 2027. See you in Mexico City!
 - My proceedings paper "A first look at the prosody of focus and stress in Yami (Tao)" (with Argyro Katsika) from the *Speech Prosody 2026* conference has now been published [and is available here](https://www.isca-archive.org/speechprosody_2026/young26_speechprosody.html).
 - I'm officially on the job market! I am open to academic positions (tenure-track, lecturer, postdoc) in Linguistics, Anthropology, or related fields (e.g. English, Modern Languages, East Asian Studies, etc.).
 
