@@ -43,7 +43,7 @@ The research & teaching sections of my CV are listed on their respective pages o
 | Date | Author(s) & Title | Conference & Location |
 | ---- | -------------- | --------------------- |
 | 2027 | Campbell, Eric W., Chun-Jan Young, & Members of the OLA Lab<br>(Re)connecting to *Indígena* roots: Language cultivation and learning in the OLA Lab | 2027 Annual Meeting of the Society for the Study of the Indigenous Languages of the Americas (SSILA 2027)<br>Mexico City, Mexico |
-| 2027 | Young, Chun-Jan<br>Contrastive focus and the role of prosody in Tao/Yami | 101st Annual Meeting of the Linguistic Society of America (LSA 2027)<br>San Francisco, CA |
+| 2027 | Young, Chun-Jan<br>Contrastive focus and the role of prosody in Tao/Yami | 2027 Annual Meeting of the Linguistic Society of America<br>San Francisco, CA, USA |
 | 2026 | Young, Chun-Jan, & Argyro Katsika<br>A first look at the prosody of focus and stress in Yami (Tao) | Speech Prosody 2026<br>Philadelphia, PA, USA |
 | 2026 | Aguilar, Ana, Talia Aguilar, Pedro Matias, Yesenia Perez, Jocelyn Vasquez, Cormac League, Chun-Jan Young, and Eric W. Campbell<br>*Ortografías en Lenguas Aborígenes*: Reclaiming Voice Through Language Work | 28th Workshop on American Indigenous Languages (WAIL 28)<br>Santa Barbara, CA, USA |
 | 2025 | Gabriel Ruiz, Martín, Guillem Belmar, Eric W. Campbell, Noemy Condori Arias, Ryan Ka Yau Lai, James R. Yee, & Chun-Jan Young<br>*Mitientsi kuajperakuechani*: Translating and disseminating legal information for the P'urhépecha diaspora in the US | 4th International Conference on the Revitalization of Indigenous and Minoritized Languages (CIRLIM IV)<br>Kyoto, Japan |
